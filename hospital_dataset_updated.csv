@@ -1,0 +1,1001 @@
+ID,Hospital_Name,Patient_Name,Patient_ID,Patient_Problem,Appointment_Date,Appointment_Time,Days_To_Cure,Medicine,Raw_Patient_Query,Intent
+1,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Reddy,P1001,General Checkup,2026-09-05,02:30 PM,3-5 days,Paracetamol,Can I book a consultation online?,appointment_booking
+2,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1002,General Checkup,2026-09-06,10:00 AM,3-5 days,Paracetamol,I need to book a doctor visit.,appointment_booking
+3,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1003,General Checkup,2026-09-07,04:00 PM,3-5 days,Paracetamol,Please book an appointment for me.,appointment_booking
+4,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1004,General Checkup,2026-09-08,11:00 AM,3-5 days,Paracetamol,Can I reserve a consultation slot?,appointment_booking
+5,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1005,General Checkup,2026-09-09,04:30 PM,3-5 days,Paracetamol,I want to book an appointment.,appointment_booking
+6,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Verma,P1006,General Checkup,2026-09-10,02:00 PM,3-5 days,Paracetamol,How do I schedule a hospital visit?,appointment_booking
+7,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Das,P1007,General Checkup,2026-09-11,04:30 PM,3-5 days,Paracetamol,I need an appointment for an ENT checkup.,appointment_booking
+8,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Naidu,P1008,General Checkup,2026-09-12,02:30 PM,3-5 days,Paracetamol,I need an appointment for an ENT checkup.,appointment_booking
+9,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Rao,P1009,General Checkup,2026-09-13,02:30 PM,3-5 days,Paracetamol,I need to schedule a hospital appointment.,appointment_booking
+10,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1010,General Checkup,2026-09-14,04:00 PM,3-5 days,Paracetamol,I need to book a doctor visit.,appointment_booking
+11,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1011,General Checkup,2026-09-15,12:00 PM,3-5 days,Paracetamol,Please help me schedule a consultation.,appointment_booking
+12,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1012,General Checkup,2026-09-16,09:30 AM,3-5 days,Paracetamol,I would like to book an appointment.,appointment_booking
+13,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1013,General Checkup,2026-09-17,02:30 PM,3-5 days,Paracetamol,Can I get an appointment this week?,appointment_booking
+14,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Naidu,P1014,General Checkup,2026-09-18,11:30 AM,3-5 days,Paracetamol,I need to schedule a hospital appointment.,appointment_booking
+15,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Singh,P1015,General Checkup,2026-09-19,10:00 AM,3-5 days,Paracetamol,Can I reserve a consultation slot?,appointment_booking
+16,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1016,General Checkup,2026-09-20,10:30 AM,3-5 days,Paracetamol,Can I book an appointment for tomorrow?,appointment_booking
+17,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1017,General Checkup,2026-09-21,04:00 PM,3-5 days,Paracetamol,Could I book a consultation online?,appointment_booking
+18,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Kumar,P1018,General Checkup,2026-09-22,02:00 PM,3-5 days,Paracetamol,I need to book a doctor visit.,appointment_booking
+19,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1019,General Checkup,2026-09-23,12:30 PM,3-5 days,Paracetamol,How do I schedule a hospital visit?,appointment_booking
+20,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Reddy,P1020,General Checkup,2026-09-24,12:30 PM,3-5 days,Paracetamol,I want to schedule an ENT consultation.,appointment_booking
+21,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Patel,P1021,General Checkup,2026-09-25,11:30 AM,3-5 days,Paracetamol,I need an appointment for an ENT checkup.,appointment_booking
+22,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1022,General Checkup,2026-09-26,03:00 PM,3-5 days,Paracetamol,Can I reserve a consultation slot?,appointment_booking
+23,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1023,General Checkup,2026-09-27,12:30 PM,3-5 days,Paracetamol,Can I get an appointment this week?,appointment_booking
+24,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1024,General Checkup,2026-09-28,01:30 PM,3-5 days,Paracetamol,Could I reserve a consultation slot?,appointment_booking
+25,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1025,General Checkup,2026-09-29,10:30 AM,3-5 days,Paracetamol,I want to book a consultation for my ear problem.,appointment_booking
+26,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1026,General Checkup,2026-09-30,02:00 PM,3-5 days,Paracetamol,I need to schedule a hospital appointment.,appointment_booking
+27,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1027,General Checkup,2026-10-01,11:00 AM,3-5 days,Paracetamol,Is it possible to book an appointment today?,appointment_booking
+28,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1028,General Checkup,2026-10-02,11:00 AM,3-5 days,Paracetamol,Please help me get an appointment.,appointment_booking
+29,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Das,P1029,General Checkup,2026-10-03,10:00 AM,3-5 days,Paracetamol,I want to schedule an ENT consultation.,appointment_booking
+30,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1030,General Checkup,2026-10-04,12:30 PM,3-5 days,Paracetamol,Can I book an appointment for tomorrow?,appointment_booking
+31,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1031,General Checkup,2026-09-05,04:30 PM,3-5 days,Paracetamol,I want to book a consultation for my ear problem.,appointment_booking
+32,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1032,General Checkup,2026-09-06,04:00 PM,3-5 days,Paracetamol,I would like to make an appointment with the hospital.,appointment_booking
+33,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1033,General Checkup,2026-09-07,02:30 PM,3-5 days,Paracetamol,I want to book an appointment.,appointment_booking
+34,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Reddy,P1034,General Checkup,2026-09-08,04:30 PM,3-5 days,Paracetamol,Please help me schedule a consultation.,appointment_booking
+35,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Das,P1035,General Checkup,2026-09-09,02:30 PM,3-5 days,Paracetamol,Is it possible to book an appointment today?,appointment_booking
+36,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1036,General Checkup,2026-09-10,10:30 AM,3-5 days,Paracetamol,How do I schedule a hospital visit?,appointment_booking
+37,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Verma,P1037,General Checkup,2026-09-11,10:00 AM,3-5 days,Paracetamol,Is it possible to book an appointment today?,appointment_booking
+38,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1038,General Checkup,2026-09-12,01:30 PM,3-5 days,Paracetamol,I want to book a consultation for my ear problem.,appointment_booking
+39,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1039,General Checkup,2026-09-13,04:00 PM,3-5 days,Paracetamol,Please help me schedule a consultation.,appointment_booking
+40,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Patel,P1040,General Checkup,2026-09-14,02:30 PM,3-5 days,Paracetamol,Can I book an appointment for tomorrow?,appointment_booking
+41,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1041,General Checkup,2026-09-15,03:30 PM,3-5 days,Paracetamol,I want to schedule an ENT consultation.,appointment_booking
+42,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Rao,P1042,General Checkup,2026-09-16,09:30 AM,3-5 days,Paracetamol,Could I get an appointment this week?,appointment_booking
+43,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1043,General Checkup,2026-09-17,04:30 PM,3-5 days,Paracetamol,How do I book an ENT appointment?,appointment_booking
+44,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1044,General Checkup,2026-09-18,01:30 PM,3-5 days,Paracetamol,I need to see a doctor and want an appointment.,appointment_booking
+45,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1045,General Checkup,2026-09-19,04:00 PM,3-5 days,Paracetamol,How can I book an ENT appointment?,appointment_booking
+46,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1046,General Checkup,2026-09-20,04:00 PM,3-5 days,Paracetamol,Can I get an appointment this week?,appointment_booking
+47,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1047,General Checkup,2026-09-21,11:30 AM,3-5 days,Paracetamol,Can I book an appointment for tomorrow?,appointment_booking
+48,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Rao,P1048,General Checkup,2026-09-22,03:30 PM,3-5 days,Paracetamol,Can I book a consultation online?,appointment_booking
+49,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1049,General Checkup,2026-09-23,10:00 AM,3-5 days,Paracetamol,Can I get an appointment this week?,appointment_booking
+50,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1050,General Checkup,2026-09-24,11:30 AM,3-5 days,Paracetamol,Can I get an appointment for an ENT specialist?,appointment_booking
+51,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Naidu,P1051,General Checkup,2026-09-25,02:30 PM,3-5 days,Paracetamol,I would like to make an appointment.,appointment_booking
+52,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Sharma,P1052,General Checkup,2026-09-26,12:30 PM,3-5 days,Paracetamol,Could I book an appointment for tomorrow?,appointment_booking
+53,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1053,General Checkup,2026-09-27,09:00 AM,3-5 days,Paracetamol,Please help me get an appointment.,appointment_booking
+54,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Sharma,P1054,General Checkup,2026-09-28,11:30 AM,3-5 days,Paracetamol,I need to see a doctor and want an appointment.,appointment_booking
+55,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1055,General Checkup,2026-09-29,04:00 PM,3-5 days,Paracetamol,Please book an appointment for me.,appointment_booking
+56,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Rao,P1056,General Checkup,2026-09-30,03:00 PM,3-5 days,Paracetamol,I would like to make an appointment.,appointment_booking
+57,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Singh,P1057,General Checkup,2026-10-01,10:00 AM,3-5 days,Paracetamol,Please book an appointment for me.,appointment_booking
+58,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Verma,P1058,General Checkup,2026-10-02,01:00 PM,3-5 days,Paracetamol,I need an appointment for an ENT checkup.,appointment_booking
+59,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Patel,P1059,General Checkup,2026-10-03,12:30 PM,3-5 days,Paracetamol,I want to book an appointment.,appointment_booking
+60,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Naidu,P1060,General Checkup,2026-10-04,03:30 PM,3-5 days,Paracetamol,Please help me get an appointment.,appointment_booking
+61,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1061,General Checkup,2026-09-05,11:30 AM,3-5 days,Paracetamol,How can I book an ENT appointment?,appointment_booking
+62,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1062,General Checkup,2026-09-06,02:30 PM,3-5 days,Paracetamol,Can I get an appointment for an ENT specialist?,appointment_booking
+63,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Nair,P1063,General Checkup,2026-09-07,04:30 PM,3-5 days,Paracetamol,I want to make an appointment with the hospital.,appointment_booking
+64,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1064,General Checkup,2026-09-08,10:00 AM,3-5 days,Paracetamol,How can I book an ENT appointment?,appointment_booking
+65,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1065,General Checkup,2026-09-09,09:30 AM,3-5 days,Paracetamol,How do I schedule a hospital visit?,appointment_booking
+66,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Patel,P1066,General Checkup,2026-09-10,04:00 PM,3-5 days,Paracetamol,I want to make an appointment with the hospital.,appointment_booking
+67,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1067,General Checkup,2026-09-11,10:00 AM,3-5 days,Paracetamol,I would like to schedule an ENT consultation.,appointment_booking
+68,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1068,General Checkup,2026-09-12,03:00 PM,3-5 days,Paracetamol,I need to see a doctor and want an appointment.,appointment_booking
+69,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Singh,P1069,General Checkup,2026-09-13,11:00 AM,3-5 days,Paracetamol,Is it possible to book an appointment today?,appointment_booking
+70,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1070,General Checkup,2026-09-14,12:30 PM,3-5 days,Paracetamol,I would like to make an appointment.,appointment_booking
+71,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Naidu,P1071,General Checkup,2026-09-15,01:00 PM,3-5 days,Paracetamol,I want to book an appointment.,appointment_booking
+72,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Verma,P1072,General Checkup,2026-09-16,01:00 PM,3-5 days,Paracetamol,I need an appointment for an ENT checkup.,appointment_booking
+73,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1073,General Checkup,2026-09-17,09:00 AM,3-5 days,Paracetamol,Can I get an appointment for an ENT specialist?,appointment_booking
+74,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Naidu,P1074,General Checkup,2026-09-18,01:00 PM,3-5 days,Paracetamol,Is it possible to book an appointment today?,appointment_booking
+75,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1075,General Checkup,2026-09-19,11:00 AM,3-5 days,Paracetamol,Can I book a consultation online?,appointment_booking
+76,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1076,General Checkup,2026-09-20,01:00 PM,3-5 days,Paracetamol,I would like to make an appointment.,appointment_booking
+77,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Kumar,P1077,General Checkup,2026-09-21,02:30 PM,3-5 days,Paracetamol,I need to book a doctor visit.,appointment_booking
+78,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1078,General Checkup,2026-09-22,12:00 PM,3-5 days,Paracetamol,I need to schedule a hospital appointment.,appointment_booking
+79,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Nair,P1079,General Checkup,2026-09-23,01:30 PM,3-5 days,Paracetamol,Please book an appointment for me.,appointment_booking
+80,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Verma,P1080,General Checkup,2026-09-24,04:00 PM,3-5 days,Paracetamol,I want to make an appointment with the hospital.,appointment_booking
+81,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1081,General Checkup,2026-09-25,10:30 AM,3-5 days,Paracetamol,Please book an appointment for me.,appointment_booking
+82,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Singh,P1082,General Checkup,2026-09-26,10:30 AM,3-5 days,Paracetamol,Could I get an appointment for an ENT specialist?,appointment_booking
+83,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Verma,P1083,General Checkup,2026-09-27,02:00 PM,3-5 days,Paracetamol,How do I schedule a hospital visit?,appointment_booking
+84,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Singh,P1084,General Checkup,2026-09-28,02:00 PM,3-5 days,Paracetamol,I would like to make an appointment.,appointment_booking
+85,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Kumar,P1085,General Checkup,2026-09-29,12:00 PM,3-5 days,Paracetamol,Can I book a consultation online?,appointment_booking
+86,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1086,General Checkup,2026-09-30,10:30 AM,3-5 days,Paracetamol,Please help me schedule a consultation.,appointment_booking
+87,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1087,General Checkup,2026-10-01,01:30 PM,3-5 days,Paracetamol,I need to schedule a hospital appointment.,appointment_booking
+88,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1088,General Checkup,2026-10-02,11:30 AM,3-5 days,Paracetamol,Please help me get an appointment.,appointment_booking
+89,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Sharma,P1089,General Checkup,2026-10-03,02:00 PM,3-5 days,Paracetamol,How can I book an ENT appointment?,appointment_booking
+90,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Nair,P1090,General Checkup,2026-10-04,09:00 AM,3-5 days,Paracetamol,I need to see a doctor and want an appointment.,appointment_booking
+91,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Nair,P1091,General Checkup,2026-09-05,09:00 AM,3-5 days,Paracetamol,I would like to book a consultation for my ear problem.,appointment_booking
+92,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1092,General Checkup,2026-09-06,03:00 PM,3-5 days,Paracetamol,Can I reserve a consultation slot?,appointment_booking
+93,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Das,P1093,General Checkup,2026-09-07,12:00 PM,3-5 days,Paracetamol,Please help me get an appointment.,appointment_booking
+94,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1094,General Checkup,2026-09-08,03:30 PM,3-5 days,Paracetamol,Please help me schedule a consultation.,appointment_booking
+95,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1095,General Checkup,2026-09-09,02:00 PM,3-5 days,Paracetamol,I need to book a doctor visit.,appointment_booking
+96,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Das,P1096,General Checkup,2026-09-10,11:30 AM,3-5 days,Paracetamol,Can I get an appointment for an ENT specialist?,appointment_booking
+97,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Reddy,P1097,General Checkup,2026-09-11,04:00 PM,3-5 days,Paracetamol,I want to book a consultation for my ear problem.,appointment_booking
+98,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Sharma,P1098,General Checkup,2026-09-12,03:30 PM,3-5 days,Paracetamol,I want to schedule an ENT consultation.,appointment_booking
+99,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1099,General Checkup,2026-09-13,11:00 AM,3-5 days,Paracetamol,I need to see a doctor and want an appointment.,appointment_booking
+100,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Reddy,P1100,General Checkup,2026-09-14,01:00 PM,3-5 days,Paracetamol,I want to make an appointment with the hospital.,appointment_booking
+101,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Naidu,P1101,Consultation,2026-09-15,09:30 AM,5-7 days,Vitamin Tablets,I need to consult the ENT specialist.,doctor_appointment
+102,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Das,P1102,Consultation,2026-09-16,03:30 PM,5-7 days,Vitamin Tablets,How do I get a consultation with Dr Gouda Ramesh?,doctor_appointment
+103,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1103,Consultation,2026-09-17,09:00 AM,5-7 days,Vitamin Tablets,Can I schedule a visit with the doctor?,doctor_appointment
+104,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Reddy,P1104,Consultation,2026-09-18,04:00 PM,5-7 days,Vitamin Tablets,I need to see the ENT doctor.,doctor_appointment
+105,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Naidu,P1105,Consultation,2026-09-19,01:30 PM,5-7 days,Vitamin Tablets,I want to meet Dr Gouda Ramesh.,doctor_appointment
+106,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1106,Consultation,2026-09-20,01:00 PM,5-7 days,Vitamin Tablets,I want a consultation with the doctor.,doctor_appointment
+107,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1107,Consultation,2026-09-21,02:00 PM,5-7 days,Vitamin Tablets,Please help me arrange a consultation with the doctor.,doctor_appointment
+108,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Nair,P1108,Consultation,2026-09-22,09:30 AM,5-7 days,Vitamin Tablets,Could I meet the ENT specialist?,doctor_appointment
+109,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1109,Consultation,2026-09-23,11:00 AM,5-7 days,Vitamin Tablets,Could I see the doctor for my ear problem?,doctor_appointment
+110,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1110,Consultation,2026-09-24,11:00 AM,5-7 days,Vitamin Tablets,I want to meet the hospital's ENT specialist.,doctor_appointment
+111,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1111,Consultation,2026-09-25,03:00 PM,5-7 days,Vitamin Tablets,I need to consult the ENT specialist.,doctor_appointment
+112,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Nair,P1112,Consultation,2026-09-26,09:30 AM,5-7 days,Vitamin Tablets,I need to consult the ENT specialist.,doctor_appointment
+113,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Verma,P1113,Consultation,2026-09-27,12:00 PM,5-7 days,Vitamin Tablets,I would like to consult Dr Gouda Ramesh.,doctor_appointment
+114,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1114,Consultation,2026-09-28,04:00 PM,5-7 days,Vitamin Tablets,I need a specialist appointment.,doctor_appointment
+115,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Naidu,P1115,Consultation,2026-09-29,09:30 AM,5-7 days,Vitamin Tablets,I need to see an ENT specialist.,doctor_appointment
+116,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1116,Consultation,2026-09-30,03:00 PM,5-7 days,Vitamin Tablets,Is it possible to consult Dr Gouda Ramesh?,doctor_appointment
+117,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Kumar,P1117,Consultation,2026-10-01,11:30 AM,5-7 days,Vitamin Tablets,I would like to consult Dr Gouda Ramesh.,doctor_appointment
+118,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Singh,P1118,Consultation,2026-10-02,01:00 PM,5-7 days,Vitamin Tablets,I need to see the ENT doctor.,doctor_appointment
+119,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1119,Consultation,2026-10-03,09:00 AM,5-7 days,Vitamin Tablets,I want to discuss my ENT problem with the doctor.,doctor_appointment
+120,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1120,Consultation,2026-10-04,04:00 PM,5-7 days,Vitamin Tablets,Can I see the doctor for my ear problem?,doctor_appointment
+121,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Verma,P1121,Consultation,2026-09-05,02:00 PM,5-7 days,Vitamin Tablets,Is it possible to consult Dr Gouda Ramesh?,doctor_appointment
+122,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Das,P1122,Consultation,2026-09-06,11:00 AM,5-7 days,Vitamin Tablets,How can I meet Dr Gouda Ramesh?,doctor_appointment
+123,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Verma,P1123,Consultation,2026-09-07,11:00 AM,5-7 days,Vitamin Tablets,I would like to have a doctor consultation.,doctor_appointment
+124,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Naidu,P1124,Consultation,2026-09-08,11:30 AM,5-7 days,Vitamin Tablets,How can I meet Dr Gouda Ramesh?,doctor_appointment
+125,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Verma,P1125,Consultation,2026-09-09,02:00 PM,5-7 days,Vitamin Tablets,How can I get a consultation with Dr Gouda Ramesh?,doctor_appointment
+126,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1126,Consultation,2026-09-10,11:00 AM,5-7 days,Vitamin Tablets,Can I book an appointment with Dr Gouda Ramesh?,doctor_appointment
+127,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Nair,P1127,Consultation,2026-09-11,09:30 AM,5-7 days,Vitamin Tablets,I want to discuss my ENT problem with the doctor.,doctor_appointment
+128,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1128,Consultation,2026-09-12,01:00 PM,5-7 days,Vitamin Tablets,I would like to have a doctor consultation.,doctor_appointment
+129,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1129,Consultation,2026-09-13,10:00 AM,5-7 days,Vitamin Tablets,Can I book an appointment with Dr Gouda Ramesh?,doctor_appointment
+130,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Singh,P1130,Consultation,2026-09-14,01:30 PM,5-7 days,Vitamin Tablets,I would like to consult Dr Gouda Ramesh.,doctor_appointment
+131,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1131,Consultation,2026-09-15,04:30 PM,5-7 days,Vitamin Tablets,I want to meet Dr Gouda Ramesh.,doctor_appointment
+132,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Reddy,P1132,Consultation,2026-09-16,04:30 PM,5-7 days,Vitamin Tablets,I want to consult the doctor about my throat problem.,doctor_appointment
+133,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Naidu,P1133,Consultation,2026-09-17,01:00 PM,5-7 days,Vitamin Tablets,Please help me arrange a consultation with the doctor.,doctor_appointment
+134,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Patel,P1134,Consultation,2026-09-18,11:30 AM,5-7 days,Vitamin Tablets,Can I schedule a visit with the doctor?,doctor_appointment
+135,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1135,Consultation,2026-09-19,02:00 PM,5-7 days,Vitamin Tablets,How do I meet Dr Gouda Ramesh?,doctor_appointment
+136,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Nair,P1136,Consultation,2026-09-20,12:30 PM,5-7 days,Vitamin Tablets,Is it possible to consult Dr Gouda Ramesh?,doctor_appointment
+137,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1137,Consultation,2026-09-21,01:00 PM,5-7 days,Vitamin Tablets,Can I book an appointment with Dr Gouda Ramesh?,doctor_appointment
+138,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1138,Consultation,2026-09-22,02:30 PM,5-7 days,Vitamin Tablets,I need a specialist appointment.,doctor_appointment
+139,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1139,Consultation,2026-09-23,02:30 PM,5-7 days,Vitamin Tablets,I want to meet the hospital's ENT specialist.,doctor_appointment
+140,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Rao,P1140,Consultation,2026-09-24,03:00 PM,5-7 days,Vitamin Tablets,How can I meet Dr Gouda Ramesh?,doctor_appointment
+141,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Singh,P1141,Consultation,2026-09-25,03:00 PM,5-7 days,Vitamin Tablets,Can I meet the ENT specialist?,doctor_appointment
+142,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Singh,P1142,Consultation,2026-09-26,02:00 PM,5-7 days,Vitamin Tablets,Can I schedule a visit with the doctor?,doctor_appointment
+143,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1143,Consultation,2026-09-27,12:30 PM,5-7 days,Vitamin Tablets,I want to meet Dr Gouda Ramesh.,doctor_appointment
+144,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Verma,P1144,Consultation,2026-09-28,10:30 AM,5-7 days,Vitamin Tablets,I want to consult the doctor about my throat problem.,doctor_appointment
+145,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1145,Consultation,2026-09-29,01:30 PM,5-7 days,Vitamin Tablets,Can I see the doctor for my ear problem?,doctor_appointment
+146,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1146,Consultation,2026-09-30,04:00 PM,5-7 days,Vitamin Tablets,Please help me arrange a consultation with the doctor.,doctor_appointment
+147,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1147,Consultation,2026-10-01,02:00 PM,5-7 days,Vitamin Tablets,Can I schedule a visit with the doctor?,doctor_appointment
+148,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1148,Consultation,2026-10-02,02:00 PM,5-7 days,Vitamin Tablets,Can I meet the ENT specialist?,doctor_appointment
+149,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1149,Consultation,2026-10-03,04:00 PM,5-7 days,Vitamin Tablets,I would like to a consultation with the doctor.,doctor_appointment
+150,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Naidu,P1150,Consultation,2026-10-04,09:00 AM,5-7 days,Vitamin Tablets,Can I meet the ENT specialist?,doctor_appointment
+151,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Rao,P1151,Consultation,2026-09-05,12:30 PM,5-7 days,Vitamin Tablets,I would like to meet Dr Gouda Ramesh.,doctor_appointment
+152,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Naidu,P1152,Consultation,2026-09-06,09:00 AM,5-7 days,Vitamin Tablets,I need to see an ENT specialist.,doctor_appointment
+153,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1153,Consultation,2026-09-07,10:30 AM,5-7 days,Vitamin Tablets,Can I see the doctor for my ear problem?,doctor_appointment
+154,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1154,Consultation,2026-09-08,12:30 PM,5-7 days,Vitamin Tablets,I would like to consult Dr Gouda Ramesh.,doctor_appointment
+155,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1155,Consultation,2026-09-09,11:30 AM,5-7 days,Vitamin Tablets,Can I meet the doctor this week?,doctor_appointment
+156,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1156,Consultation,2026-09-10,03:30 PM,5-7 days,Vitamin Tablets,I need a specialist appointment.,doctor_appointment
+157,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Rao,P1157,Consultation,2026-09-11,02:00 PM,5-7 days,Vitamin Tablets,I need to see the ENT doctor.,doctor_appointment
+158,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1158,Consultation,2026-09-12,11:00 AM,5-7 days,Vitamin Tablets,I would like to discuss my ENT problem with the doctor.,doctor_appointment
+159,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1159,Consultation,2026-09-13,12:00 PM,5-7 days,Vitamin Tablets,Please help me arrange a consultation with the doctor.,doctor_appointment
+160,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Nair,P1160,Consultation,2026-09-14,09:30 AM,5-7 days,Vitamin Tablets,Is it possible to consult Dr Gouda Ramesh?,doctor_appointment
+161,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1161,Consultation,2026-09-15,02:00 PM,5-7 days,Vitamin Tablets,I need to see an ENT specialist.,doctor_appointment
+162,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1162,Consultation,2026-09-16,02:00 PM,5-7 days,Vitamin Tablets,Can I meet the doctor this week?,doctor_appointment
+163,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1163,Consultation,2026-09-17,02:30 PM,5-7 days,Vitamin Tablets,Can I meet the ENT specialist?,doctor_appointment
+164,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1164,Consultation,2026-09-18,03:30 PM,5-7 days,Vitamin Tablets,I want to meet the hospital's ENT specialist.,doctor_appointment
+165,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1165,Consultation,2026-09-19,04:00 PM,5-7 days,Vitamin Tablets,I need to consult the ENT specialist.,doctor_appointment
+166,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Reddy,P1166,Consultation,2026-09-20,02:00 PM,5-7 days,Vitamin Tablets,Could I book an appointment with Dr Gouda Ramesh?,doctor_appointment
+167,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1167,Consultation,2026-09-21,01:00 PM,5-7 days,Vitamin Tablets,I want a consultation with the doctor.,doctor_appointment
+168,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1168,Consultation,2026-09-22,04:00 PM,5-7 days,Vitamin Tablets,Can I book an appointment with Dr Gouda Ramesh?,doctor_appointment
+169,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1169,Consultation,2026-09-23,11:30 AM,5-7 days,Vitamin Tablets,I want to consult the doctor about my throat problem.,doctor_appointment
+170,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1170,Consultation,2026-09-24,03:30 PM,5-7 days,Vitamin Tablets,I need to consult the ENT specialist.,doctor_appointment
+171,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Naidu,P1171,Consultation,2026-09-25,09:00 AM,5-7 days,Vitamin Tablets,I want to discuss my ENT problem with the doctor.,doctor_appointment
+172,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1172,Consultation,2026-09-26,04:30 PM,5-7 days,Vitamin Tablets,I would like to consult the doctor about my throat problem.,doctor_appointment
+173,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1173,Consultation,2026-09-27,01:30 PM,5-7 days,Vitamin Tablets,I want to meet Dr Gouda Ramesh.,doctor_appointment
+174,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Nair,P1174,Consultation,2026-09-28,03:00 PM,5-7 days,Vitamin Tablets,Please help me arrange a consultation with the doctor.,doctor_appointment
+175,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1175,Consultation,2026-09-29,03:00 PM,5-7 days,Vitamin Tablets,How can I meet Dr Gouda Ramesh?,doctor_appointment
+176,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Naidu,P1176,Consultation,2026-09-30,09:30 AM,5-7 days,Vitamin Tablets,I want a consultation with the doctor.,doctor_appointment
+177,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1177,Consultation,2026-10-01,01:30 PM,5-7 days,Vitamin Tablets,I need a specialist appointment.,doctor_appointment
+178,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Das,P1178,Consultation,2026-10-02,04:00 PM,5-7 days,Vitamin Tablets,I want to consult the doctor about my throat problem.,doctor_appointment
+179,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1179,Consultation,2026-10-03,02:30 PM,5-7 days,Vitamin Tablets,I want to meet the hospital's ENT specialist.,doctor_appointment
+180,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1180,Consultation,2026-10-04,10:00 AM,5-7 days,Vitamin Tablets,I would like to meet the hospital's ENT specialist.,doctor_appointment
+181,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1181,Consultation,2026-09-05,03:00 PM,5-7 days,Vitamin Tablets,I would like to have a doctor consultation.,doctor_appointment
+182,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Nair,P1182,Consultation,2026-09-06,11:30 AM,5-7 days,Vitamin Tablets,Could I meet the doctor this week?,doctor_appointment
+183,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Das,P1183,Consultation,2026-09-07,11:30 AM,5-7 days,Vitamin Tablets,How can I get a consultation with Dr Gouda Ramesh?,doctor_appointment
+184,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Verma,P1184,Consultation,2026-09-08,11:30 AM,5-7 days,Vitamin Tablets,I need to see an ENT specialist.,doctor_appointment
+185,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Sharma,P1185,Consultation,2026-09-09,09:30 AM,5-7 days,Vitamin Tablets,How can I get a consultation with Dr Gouda Ramesh?,doctor_appointment
+186,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Verma,P1186,Consultation,2026-09-10,01:00 PM,5-7 days,Vitamin Tablets,Can I meet the doctor this week?,doctor_appointment
+187,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1187,Consultation,2026-09-11,02:00 PM,5-7 days,Vitamin Tablets,How can I get a consultation with Dr Gouda Ramesh?,doctor_appointment
+188,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1188,Consultation,2026-09-12,02:00 PM,5-7 days,Vitamin Tablets,I would like to have a doctor consultation.,doctor_appointment
+189,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1189,Consultation,2026-09-13,11:30 AM,5-7 days,Vitamin Tablets,I need a specialist appointment.,doctor_appointment
+190,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1190,Consultation,2026-09-14,12:00 PM,5-7 days,Vitamin Tablets,Could I schedule a visit with the doctor?,doctor_appointment
+191,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Rao,P1191,Consultation,2026-09-15,11:30 AM,5-7 days,Vitamin Tablets,Can I meet the doctor this week?,doctor_appointment
+192,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1192,Consultation,2026-09-16,01:30 PM,5-7 days,Vitamin Tablets,I need to see the ENT doctor.,doctor_appointment
+193,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1193,Consultation,2026-09-17,03:30 PM,5-7 days,Vitamin Tablets,I need to see an ENT specialist.,doctor_appointment
+194,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1194,Consultation,2026-09-18,03:30 PM,5-7 days,Vitamin Tablets,Is it possible to consult Dr Gouda Ramesh?,doctor_appointment
+195,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1195,Consultation,2026-09-19,02:00 PM,5-7 days,Vitamin Tablets,I would like to have a doctor consultation.,doctor_appointment
+196,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1196,Consultation,2026-09-20,11:30 AM,5-7 days,Vitamin Tablets,I want to discuss my ENT problem with the doctor.,doctor_appointment
+197,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Patel,P1197,Consultation,2026-09-21,02:30 PM,5-7 days,Vitamin Tablets,Can I see the doctor for my ear problem?,doctor_appointment
+198,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1198,Consultation,2026-09-22,10:00 AM,5-7 days,Vitamin Tablets,I would like to consult Dr Gouda Ramesh.,doctor_appointment
+199,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1199,Consultation,2026-09-23,03:30 PM,5-7 days,Vitamin Tablets,I want a consultation with the doctor.,doctor_appointment
+200,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1200,Consultation,2026-09-24,12:00 PM,5-7 days,Vitamin Tablets,I need to see the ENT doctor.,doctor_appointment
+201,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1201,Follow-up,2026-09-25,09:00 AM,7-10 days,Ibuprofen,Is the specialist available this evening?,doctor_availability
+202,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1202,Follow-up,2026-09-26,12:00 PM,7-10 days,Ibuprofen,When can I meet the doctor?,doctor_availability
+203,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1203,Follow-up,2026-09-27,03:30 PM,7-10 days,Ibuprofen,Is Dr Gouda Ramesh available tomorrow?,doctor_availability
+204,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1204,Follow-up,2026-09-28,04:30 PM,7-10 days,Ibuprofen,Can I check available appointment slots?,doctor_availability
+205,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Kumar,P1205,Follow-up,2026-09-29,09:00 AM,7-10 days,Ibuprofen,What days does the doctor see patients?,doctor_availability
+206,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1206,Follow-up,2026-09-30,09:00 AM,7-10 days,Ibuprofen,When is Dr Gouda Ramesh available?,doctor_availability
+207,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Verma,P1207,Follow-up,2026-10-01,12:30 PM,7-10 days,Ibuprofen,When can I consult the ENT specialist?,doctor_availability
+208,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1208,Follow-up,2026-10-02,09:00 AM,7-10 days,Ibuprofen,Is Dr Gouda Ramesh available tomorrow?,doctor_availability
+209,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Rao,P1209,Follow-up,2026-10-03,04:30 PM,7-10 days,Ibuprofen,Can I check available appointment slots?,doctor_availability
+210,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1210,Follow-up,2026-10-04,01:00 PM,7-10 days,Ibuprofen,Is the ENT specialist available tomorrow morning?,doctor_availability
+211,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Rao,P1211,Follow-up,2026-09-05,04:00 PM,7-10 days,Ibuprofen,What are the doctor's available hours?,doctor_availability
+212,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1212,Follow-up,2026-09-06,04:30 PM,7-10 days,Ibuprofen,Is the doctor available this weekend?,doctor_availability
+213,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Patel,P1213,Follow-up,2026-09-07,11:30 AM,7-10 days,Ibuprofen,What are the doctor's available hours?,doctor_availability
+214,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1214,Follow-up,2026-09-08,03:00 PM,7-10 days,Ibuprofen,Does the doctor have appointments today?,doctor_availability
+215,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1215,Follow-up,2026-09-09,01:00 PM,7-10 days,Ibuprofen,Is the specialist available in the afternoon?,doctor_availability
+216,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1216,Follow-up,2026-09-10,01:30 PM,7-10 days,Ibuprofen,Is the specialist available this evening?,doctor_availability
+217,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Kumar,P1217,Follow-up,2026-09-11,10:30 AM,7-10 days,Ibuprofen,Could I check available appointment slots?,doctor_availability
+218,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1218,Follow-up,2026-09-12,02:00 PM,7-10 days,Ibuprofen,When is Dr Gouda Ramesh available?,doctor_availability
+219,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Verma,P1219,Follow-up,2026-09-13,11:00 AM,7-10 days,Ibuprofen,Is the ENT specialist available tomorrow morning?,doctor_availability
+220,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Sharma,P1220,Follow-up,2026-09-14,09:30 AM,7-10 days,Ibuprofen,What are the doctor's available hours?,doctor_availability
+221,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1221,Follow-up,2026-09-15,03:00 PM,7-10 days,Ibuprofen,Does the doctor have appointments today?,doctor_availability
+222,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Rao,P1222,Follow-up,2026-09-16,01:00 PM,7-10 days,Ibuprofen,When is the ENT doctor available?,doctor_availability
+223,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1223,Follow-up,2026-09-17,10:30 AM,7-10 days,Ibuprofen,When is the ENT doctor available?,doctor_availability
+224,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1224,Follow-up,2026-09-18,11:00 AM,7-10 days,Ibuprofen,Does the doctor have appointments today?,doctor_availability
+225,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Rao,P1225,Follow-up,2026-09-19,12:00 PM,7-10 days,Ibuprofen,Is the doctor available on Monday?,doctor_availability
+226,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1226,Follow-up,2026-09-20,09:30 AM,7-10 days,Ibuprofen,Is the specialist available this evening?,doctor_availability
+227,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1227,Follow-up,2026-09-21,11:00 AM,7-10 days,Ibuprofen,What days does the doctor see patients?,doctor_availability
+228,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Nair,P1228,Follow-up,2026-09-22,09:00 AM,7-10 days,Ibuprofen,When is the ENT doctor available?,doctor_availability
+229,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1229,Follow-up,2026-09-23,01:00 PM,7-10 days,Ibuprofen,Is the doctor available this weekend?,doctor_availability
+230,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Naidu,P1230,Follow-up,2026-09-24,01:00 PM,7-10 days,Ibuprofen,What time is the doctor available?,doctor_availability
+231,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Sharma,P1231,Follow-up,2026-09-25,11:00 AM,7-10 days,Ibuprofen,What days does the doctor see patients?,doctor_availability
+232,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1232,Follow-up,2026-09-26,04:00 PM,7-10 days,Ibuprofen,When can I consult the ENT specialist?,doctor_availability
+233,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Das,P1233,Follow-up,2026-09-27,11:00 AM,7-10 days,Ibuprofen,What time is the doctor available?,doctor_availability
+234,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Kumar,P1234,Follow-up,2026-09-28,09:30 AM,7-10 days,Ibuprofen,When can I meet the doctor?,doctor_availability
+235,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1235,Follow-up,2026-09-29,04:30 PM,7-10 days,Ibuprofen,What are the doctor's available hours?,doctor_availability
+236,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Naidu,P1236,Follow-up,2026-09-30,12:00 PM,7-10 days,Ibuprofen,Is the specialist available this evening?,doctor_availability
+237,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1237,Follow-up,2026-10-01,11:30 AM,7-10 days,Ibuprofen,Please tell me when the doctor is available.,doctor_availability
+238,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Patel,P1238,Follow-up,2026-10-02,09:00 AM,7-10 days,Ibuprofen,Can I check the doctor's availability?,doctor_availability
+239,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1239,Follow-up,2026-10-03,11:00 AM,7-10 days,Ibuprofen,Please tell me when the doctor is available.,doctor_availability
+240,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1240,Follow-up,2026-10-04,04:30 PM,7-10 days,Ibuprofen,When is the ENT doctor available?,doctor_availability
+241,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Singh,P1241,Follow-up,2026-09-05,02:00 PM,7-10 days,Ibuprofen,When can I consult the ENT specialist?,doctor_availability
+242,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Reddy,P1242,Follow-up,2026-09-06,12:00 PM,7-10 days,Ibuprofen,Is the specialist available in the afternoon?,doctor_availability
+243,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1243,Follow-up,2026-09-07,03:00 PM,7-10 days,Ibuprofen,Can I know the doctor's consultation schedule?,doctor_availability
+244,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Singh,P1244,Follow-up,2026-09-08,11:30 AM,7-10 days,Ibuprofen,Does the doctor see patients on Sunday?,doctor_availability
+245,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1245,Follow-up,2026-09-09,02:30 PM,7-10 days,Ibuprofen,Is the doctor available today?,doctor_availability
+246,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Das,P1246,Follow-up,2026-09-10,12:00 PM,7-10 days,Ibuprofen,Is Dr Gouda Ramesh available tomorrow?,doctor_availability
+247,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Das,P1247,Follow-up,2026-09-11,09:30 AM,7-10 days,Ibuprofen,Can I know the doctor's consultation schedule?,doctor_availability
+248,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Singh,P1248,Follow-up,2026-09-12,09:30 AM,7-10 days,Ibuprofen,What days does the doctor see patients?,doctor_availability
+249,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1249,Follow-up,2026-09-13,11:30 AM,7-10 days,Ibuprofen,Is the ENT specialist available tomorrow morning?,doctor_availability
+250,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1250,Follow-up,2026-09-14,11:00 AM,7-10 days,Ibuprofen,Could I know the doctor's consultation schedule?,doctor_availability
+251,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1251,Follow-up,2026-09-15,02:00 PM,7-10 days,Ibuprofen,What time is the doctor available?,doctor_availability
+252,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1252,Follow-up,2026-09-16,01:00 PM,7-10 days,Ibuprofen,When can I meet the doctor?,doctor_availability
+253,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1253,Follow-up,2026-09-17,04:00 PM,7-10 days,Ibuprofen,When is Dr Gouda Ramesh available?,doctor_availability
+254,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1254,Follow-up,2026-09-18,01:30 PM,7-10 days,Ibuprofen,Does the doctor see patients on Sunday?,doctor_availability
+255,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Das,P1255,Follow-up,2026-09-19,12:00 PM,7-10 days,Ibuprofen,Can I know the doctor's consultation schedule?,doctor_availability
+256,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1256,Follow-up,2026-09-20,02:00 PM,7-10 days,Ibuprofen,What time is the doctor available?,doctor_availability
+257,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1257,Follow-up,2026-09-21,01:00 PM,7-10 days,Ibuprofen,When can I meet the doctor?,doctor_availability
+258,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Naidu,P1258,Follow-up,2026-09-22,04:00 PM,7-10 days,Ibuprofen,Is the doctor available on Monday?,doctor_availability
+259,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Singh,P1259,Follow-up,2026-09-23,12:00 PM,7-10 days,Ibuprofen,Is Dr Gouda Ramesh available tomorrow?,doctor_availability
+260,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1260,Follow-up,2026-09-24,12:00 PM,7-10 days,Ibuprofen,Is the specialist available in the afternoon?,doctor_availability
+261,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Verma,P1261,Follow-up,2026-09-25,12:00 PM,7-10 days,Ibuprofen,Is the specialist available in the afternoon?,doctor_availability
+262,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1262,Follow-up,2026-09-26,12:00 PM,7-10 days,Ibuprofen,What time is the doctor available?,doctor_availability
+263,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1263,Follow-up,2026-09-27,10:00 AM,7-10 days,Ibuprofen,Can I check the doctor's availability?,doctor_availability
+264,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1264,Follow-up,2026-09-28,10:00 AM,7-10 days,Ibuprofen,Is the doctor available on Monday?,doctor_availability
+265,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1265,Follow-up,2026-09-29,10:00 AM,7-10 days,Ibuprofen,Does the doctor see patients on Sunday?,doctor_availability
+266,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1266,Follow-up,2026-09-30,03:30 PM,7-10 days,Ibuprofen,Is the ENT specialist available tomorrow morning?,doctor_availability
+267,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Nair,P1267,Follow-up,2026-10-01,12:30 PM,7-10 days,Ibuprofen,When is Dr Gouda Ramesh available?,doctor_availability
+268,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Naidu,P1268,Follow-up,2026-10-02,03:00 PM,7-10 days,Ibuprofen,Is the ENT specialist available tomorrow morning?,doctor_availability
+269,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1269,Follow-up,2026-10-03,02:30 PM,7-10 days,Ibuprofen,Can I check the doctor's availability?,doctor_availability
+270,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Naidu,P1270,Follow-up,2026-10-04,03:00 PM,7-10 days,Ibuprofen,Can I know the doctor's consultation schedule?,doctor_availability
+271,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1271,Follow-up,2026-09-05,03:00 PM,7-10 days,Ibuprofen,Please tell me when the doctor is available.,doctor_availability
+272,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Naidu,P1272,Follow-up,2026-09-06,12:00 PM,7-10 days,Ibuprofen,Please tell me when the doctor is available.,doctor_availability
+273,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1273,Follow-up,2026-09-07,11:00 AM,7-10 days,Ibuprofen,Does the doctor have appointments today?,doctor_availability
+274,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Sharma,P1274,Follow-up,2026-09-08,02:00 PM,7-10 days,Ibuprofen,Does the doctor have appointments today?,doctor_availability
+275,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1275,Follow-up,2026-09-09,02:00 PM,7-10 days,Ibuprofen,What days does the doctor see patients?,doctor_availability
+276,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Nair,P1276,Follow-up,2026-09-10,03:30 PM,7-10 days,Ibuprofen,Is the doctor available today?,doctor_availability
+277,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Nair,P1277,Follow-up,2026-09-11,10:00 AM,7-10 days,Ibuprofen,Does the doctor see patients on Sunday?,doctor_availability
+278,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1278,Follow-up,2026-09-12,11:00 AM,7-10 days,Ibuprofen,Can I check available appointment slots?,doctor_availability
+279,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Verma,P1279,Follow-up,2026-09-13,09:00 AM,7-10 days,Ibuprofen,Is the doctor available today?,doctor_availability
+280,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1280,Follow-up,2026-09-14,09:30 AM,7-10 days,Ibuprofen,Could I check the doctor's availability?,doctor_availability
+281,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1281,Follow-up,2026-09-15,01:00 PM,7-10 days,Ibuprofen,Can I check available appointment slots?,doctor_availability
+282,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Reddy,P1282,Follow-up,2026-09-16,01:30 PM,7-10 days,Ibuprofen,Is the specialist available this evening?,doctor_availability
+283,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1283,Follow-up,2026-09-17,11:00 AM,7-10 days,Ibuprofen,Can I check the doctor's availability?,doctor_availability
+284,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Singh,P1284,Follow-up,2026-09-18,03:00 PM,7-10 days,Ibuprofen,When is the ENT doctor available?,doctor_availability
+285,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Naidu,P1285,Follow-up,2026-09-19,09:00 AM,7-10 days,Ibuprofen,When can I consult the ENT specialist?,doctor_availability
+286,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1286,Follow-up,2026-09-20,11:30 AM,7-10 days,Ibuprofen,Is the doctor available this weekend?,doctor_availability
+287,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1287,Follow-up,2026-09-21,04:30 PM,7-10 days,Ibuprofen,When can I meet the doctor?,doctor_availability
+288,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1288,Follow-up,2026-09-22,02:30 PM,7-10 days,Ibuprofen,Is the doctor available on Monday?,doctor_availability
+289,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1289,Follow-up,2026-09-23,01:30 PM,7-10 days,Ibuprofen,Is the doctor available this weekend?,doctor_availability
+290,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Patel,P1290,Follow-up,2026-09-24,11:30 AM,7-10 days,Ibuprofen,Is the doctor available today?,doctor_availability
+291,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1291,Follow-up,2026-09-25,03:00 PM,7-10 days,Ibuprofen,What are the doctor's available hours?,doctor_availability
+292,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1292,Follow-up,2026-09-26,10:30 AM,7-10 days,Ibuprofen,Is the doctor available this weekend?,doctor_availability
+293,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Singh,P1293,Follow-up,2026-09-27,11:30 AM,7-10 days,Ibuprofen,Is Dr Gouda Ramesh available tomorrow?,doctor_availability
+294,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1294,Follow-up,2026-09-28,09:00 AM,7-10 days,Ibuprofen,Please tell me when the doctor is available.,doctor_availability
+295,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Kumar,P1295,Follow-up,2026-09-29,12:30 PM,7-10 days,Ibuprofen,When is Dr Gouda Ramesh available?,doctor_availability
+296,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Singh,P1296,Follow-up,2026-09-30,11:00 AM,7-10 days,Ibuprofen,Is the specialist available in the afternoon?,doctor_availability
+297,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1297,Follow-up,2026-10-01,11:00 AM,7-10 days,Ibuprofen,Is the doctor available on Monday?,doctor_availability
+298,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1298,Follow-up,2026-10-02,09:00 AM,7-10 days,Ibuprofen,Does the doctor see patients on Sunday?,doctor_availability
+299,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1299,Follow-up,2026-10-03,02:30 PM,7-10 days,Ibuprofen,Is the doctor available today?,doctor_availability
+300,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Nair,P1300,Follow-up,2026-10-04,09:00 AM,7-10 days,Ibuprofen,When can I consult the ENT specialist?,doctor_availability
+301,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Reddy,P1301,General Inquiry,2026-09-05,10:30 AM,N/A,Not Applicable,When does the hospital close?,hospital_timings
+302,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Das,P1302,General Inquiry,2026-09-06,10:30 AM,N/A,Not Applicable,What time does the Hanamkonda branch open?,hospital_timings
+303,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1303,General Inquiry,2026-09-07,04:30 PM,N/A,Not Applicable,What are the hospital timings?,hospital_timings
+304,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1304,General Inquiry,2026-09-08,11:00 AM,N/A,Not Applicable,Is the hospital open on Sunday?,hospital_timings
+305,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1305,General Inquiry,2026-09-09,02:00 PM,N/A,Not Applicable,Is the hospital open today?,hospital_timings
+306,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1306,General Inquiry,2026-09-10,04:30 PM,N/A,Not Applicable,Is the clinic open in the evening?,hospital_timings
+307,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Naidu,P1307,General Inquiry,2026-09-11,12:30 PM,N/A,Not Applicable,What time does the hospital start consultations?,hospital_timings
+308,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Patel,P1308,General Inquiry,2026-09-12,03:30 PM,N/A,Not Applicable,Tell me the hospital operating hours.,hospital_timings
+309,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Kumar,P1309,General Inquiry,2026-09-13,09:00 AM,N/A,Not Applicable,What are the clinic hours?,hospital_timings
+310,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Das,P1310,General Inquiry,2026-09-14,04:30 PM,N/A,Not Applicable,What are the working hours?,hospital_timings
+311,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1311,General Inquiry,2026-09-15,04:00 PM,N/A,Not Applicable,Is the clinic open in the evening?,hospital_timings
+312,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1312,General Inquiry,2026-09-16,10:30 AM,N/A,Not Applicable,Tell me the hospital operating hours.,hospital_timings
+313,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1313,General Inquiry,2026-09-17,01:00 PM,N/A,Not Applicable,Tell me the hospital operating hours.,hospital_timings
+314,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Kumar,P1314,General Inquiry,2026-09-18,10:30 AM,N/A,Not Applicable,When does the hospital close?,hospital_timings
+315,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Das,P1315,General Inquiry,2026-09-19,09:30 AM,N/A,Not Applicable,What time does the hospital start consultations?,hospital_timings
+316,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1316,General Inquiry,2026-09-20,04:30 PM,N/A,Not Applicable,What are the hospital timings?,hospital_timings
+317,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1317,General Inquiry,2026-09-21,11:30 AM,N/A,Not Applicable,What are the opening and closing times?,hospital_timings
+318,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Kumar,P1318,General Inquiry,2026-09-22,02:00 PM,N/A,Not Applicable,What time should I come to the hospital?,hospital_timings
+319,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Verma,P1319,General Inquiry,2026-09-23,11:30 AM,N/A,Not Applicable,What time can I visit the hospital?,hospital_timings
+320,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1320,General Inquiry,2026-09-24,10:00 AM,N/A,Not Applicable,Is the hospital open on Saturday?,hospital_timings
+321,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Verma,P1321,General Inquiry,2026-09-25,02:30 PM,N/A,Not Applicable,What time can I visit the hospital?,hospital_timings
+322,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Sharma,P1322,General Inquiry,2026-09-26,10:00 AM,N/A,Not Applicable,Is the hospital open on Saturday?,hospital_timings
+323,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Verma,P1323,General Inquiry,2026-09-27,04:00 PM,N/A,Not Applicable,What time does the Hanamkonda branch open?,hospital_timings
+324,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1324,General Inquiry,2026-09-28,04:00 PM,N/A,Not Applicable,Can you tell me the clinic timings?,hospital_timings
+325,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1325,General Inquiry,2026-09-29,02:00 PM,N/A,Not Applicable,What time does the hospital start consultations?,hospital_timings
+326,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1326,General Inquiry,2026-09-30,09:00 AM,N/A,Not Applicable,Tell me the hospital operating hours.,hospital_timings
+327,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1327,General Inquiry,2026-10-01,09:00 AM,N/A,Not Applicable,What are the hospital timings?,hospital_timings
+328,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1328,General Inquiry,2026-10-02,01:00 PM,N/A,Not Applicable,Is the hospital open today?,hospital_timings
+329,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Rao,P1329,General Inquiry,2026-10-03,03:00 PM,N/A,Not Applicable,What time should I come to the hospital?,hospital_timings
+330,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Naidu,P1330,General Inquiry,2026-10-04,10:30 AM,N/A,Not Applicable,When are the doctors available at the hospital?,hospital_timings
+331,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Sharma,P1331,General Inquiry,2026-09-05,01:00 PM,N/A,Not Applicable,What are the working hours?,hospital_timings
+332,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1332,General Inquiry,2026-09-06,02:00 PM,N/A,Not Applicable,What time can I visit the hospital?,hospital_timings
+333,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Nair,P1333,General Inquiry,2026-09-07,10:30 AM,N/A,Not Applicable,What are the opening and closing times?,hospital_timings
+334,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1334,General Inquiry,2026-09-08,10:30 AM,N/A,Not Applicable,What time can I visit the hospital?,hospital_timings
+335,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1335,General Inquiry,2026-09-09,02:30 PM,N/A,Not Applicable,What time should I come to the hospital?,hospital_timings
+336,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Nair,P1336,General Inquiry,2026-09-10,11:30 AM,N/A,Not Applicable,Is the hospital open on Saturday?,hospital_timings
+337,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1337,General Inquiry,2026-09-11,10:30 AM,N/A,Not Applicable,When are the doctors available at the hospital?,hospital_timings
+338,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1338,General Inquiry,2026-09-12,09:30 AM,N/A,Not Applicable,What time does the Hanamkonda branch open?,hospital_timings
+339,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Singh,P1339,General Inquiry,2026-09-13,03:00 PM,N/A,Not Applicable,When does the hospital open?,hospital_timings
+340,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Rao,P1340,General Inquiry,2026-09-14,03:00 PM,N/A,Not Applicable,When does the hospital close?,hospital_timings
+341,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1341,General Inquiry,2026-09-15,12:00 PM,N/A,Not Applicable,Does the hospital work in the afternoon?,hospital_timings
+342,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1342,General Inquiry,2026-09-16,03:00 PM,N/A,Not Applicable,Is the clinic open in the evening?,hospital_timings
+343,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1343,General Inquiry,2026-09-17,12:30 PM,N/A,Not Applicable,What are the working hours?,hospital_timings
+344,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1344,General Inquiry,2026-09-18,01:00 PM,N/A,Not Applicable,When does the hospital open?,hospital_timings
+345,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Naidu,P1345,General Inquiry,2026-09-19,12:30 PM,N/A,Not Applicable,What are the consultation hours?,hospital_timings
+346,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Nair,P1346,General Inquiry,2026-09-20,10:30 AM,N/A,Not Applicable,What are the clinic hours?,hospital_timings
+347,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1347,General Inquiry,2026-09-21,10:00 AM,N/A,Not Applicable,When does the ENT centre close?,hospital_timings
+348,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Verma,P1348,General Inquiry,2026-09-22,04:30 PM,N/A,Not Applicable,When does the hospital open?,hospital_timings
+349,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Das,P1349,General Inquiry,2026-09-23,02:00 PM,N/A,Not Applicable,What time does the hospital start consultations?,hospital_timings
+350,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1350,General Inquiry,2026-09-24,10:00 AM,N/A,Not Applicable,What are the consultation hours?,hospital_timings
+351,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Patel,P1351,General Inquiry,2026-09-25,11:30 AM,N/A,Not Applicable,What time should I come to the hospital?,hospital_timings
+352,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Naidu,P1352,General Inquiry,2026-09-26,11:30 AM,N/A,Not Applicable,What are the consultation hours?,hospital_timings
+353,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1353,General Inquiry,2026-09-27,01:00 PM,N/A,Not Applicable,What time should I come to the hospital?,hospital_timings
+354,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1354,General Inquiry,2026-09-28,11:30 AM,N/A,Not Applicable,When does the ENT centre close?,hospital_timings
+355,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1355,General Inquiry,2026-09-29,10:30 AM,N/A,Not Applicable,When does the ENT centre close?,hospital_timings
+356,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1356,General Inquiry,2026-09-30,09:30 AM,N/A,Not Applicable,What time does the Hanamkonda branch open?,hospital_timings
+357,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1357,General Inquiry,2026-10-01,04:00 PM,N/A,Not Applicable,Is the hospital open on Sunday?,hospital_timings
+358,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1358,General Inquiry,2026-10-02,10:00 AM,N/A,Not Applicable,When does the ENT centre close?,hospital_timings
+359,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1359,General Inquiry,2026-10-03,09:00 AM,N/A,Not Applicable,Is the hospital open on Sunday?,hospital_timings
+360,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1360,General Inquiry,2026-10-04,11:00 AM,N/A,Not Applicable,When are the doctors available at the hospital?,hospital_timings
+361,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1361,General Inquiry,2026-09-05,02:00 PM,N/A,Not Applicable,What are the clinic hours?,hospital_timings
+362,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1362,General Inquiry,2026-09-06,10:00 AM,N/A,Not Applicable,Is the clinic open in the evening?,hospital_timings
+363,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Reddy,P1363,General Inquiry,2026-09-07,04:00 PM,N/A,Not Applicable,Can you tell me the clinic timings?,hospital_timings
+364,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Kumar,P1364,General Inquiry,2026-09-08,01:30 PM,N/A,Not Applicable,What are the working hours?,hospital_timings
+365,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1365,General Inquiry,2026-09-09,03:00 PM,N/A,Not Applicable,When are the doctors available at the hospital?,hospital_timings
+366,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Naidu,P1366,General Inquiry,2026-09-10,12:30 PM,N/A,Not Applicable,Is the hospital open on Sunday?,hospital_timings
+367,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1367,General Inquiry,2026-09-11,02:00 PM,N/A,Not Applicable,Does the hospital work in the afternoon?,hospital_timings
+368,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1368,General Inquiry,2026-09-12,09:00 AM,N/A,Not Applicable,What time can I visit the hospital?,hospital_timings
+369,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Reddy,P1369,General Inquiry,2026-09-13,12:00 PM,N/A,Not Applicable,What are the working hours?,hospital_timings
+370,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Naidu,P1370,General Inquiry,2026-09-14,11:30 AM,N/A,Not Applicable,What are the consultation hours?,hospital_timings
+371,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1371,General Inquiry,2026-09-15,12:30 PM,N/A,Not Applicable,Can you tell me the clinic timings?,hospital_timings
+372,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1372,General Inquiry,2026-09-16,10:30 AM,N/A,Not Applicable,When does the hospital close?,hospital_timings
+373,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Sharma,P1373,General Inquiry,2026-09-17,11:00 AM,N/A,Not Applicable,Does the hospital work in the afternoon?,hospital_timings
+374,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1374,General Inquiry,2026-09-18,04:30 PM,N/A,Not Applicable,What are the opening and closing times?,hospital_timings
+375,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Sharma,P1375,General Inquiry,2026-09-19,11:00 AM,N/A,Not Applicable,What time does the hospital start consultations?,hospital_timings
+376,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1376,General Inquiry,2026-09-20,10:30 AM,N/A,Not Applicable,Is the clinic open in the evening?,hospital_timings
+377,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1377,General Inquiry,2026-09-21,09:30 AM,N/A,Not Applicable,Does the hospital work in the afternoon?,hospital_timings
+378,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Nair,P1378,General Inquiry,2026-09-22,09:00 AM,N/A,Not Applicable,When does the hospital open?,hospital_timings
+379,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Kumar,P1379,General Inquiry,2026-09-23,09:30 AM,N/A,Not Applicable,Tell me the hospital operating hours.,hospital_timings
+380,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1380,General Inquiry,2026-09-24,04:00 PM,N/A,Not Applicable,What are the opening and closing times?,hospital_timings
+381,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Nair,P1381,General Inquiry,2026-09-25,12:30 PM,N/A,Not Applicable,When are the doctors available at the hospital?,hospital_timings
+382,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Das,P1382,General Inquiry,2026-09-26,02:00 PM,N/A,Not Applicable,Is the hospital open on Saturday?,hospital_timings
+383,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1383,General Inquiry,2026-09-27,01:00 PM,N/A,Not Applicable,Is the hospital open today?,hospital_timings
+384,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Nair,P1384,General Inquiry,2026-09-28,10:00 AM,N/A,Not Applicable,What are the consultation hours?,hospital_timings
+385,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1385,General Inquiry,2026-09-29,10:00 AM,N/A,Not Applicable,What are the opening and closing times?,hospital_timings
+386,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1386,General Inquiry,2026-09-30,09:30 AM,N/A,Not Applicable,When does the hospital close?,hospital_timings
+387,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1387,General Inquiry,2026-10-01,12:00 PM,N/A,Not Applicable,When does the hospital open?,hospital_timings
+388,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Nair,P1388,General Inquiry,2026-10-02,02:30 PM,N/A,Not Applicable,Can you tell me the clinic timings?,hospital_timings
+389,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1389,General Inquiry,2026-10-03,04:00 PM,N/A,Not Applicable,What are the clinic hours?,hospital_timings
+390,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Kumar,P1390,General Inquiry,2026-10-04,04:30 PM,N/A,Not Applicable,Is the hospital open today?,hospital_timings
+391,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Rao,P1391,General Inquiry,2026-09-05,04:30 PM,N/A,Not Applicable,What are the clinic hours?,hospital_timings
+392,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1392,General Inquiry,2026-09-06,04:00 PM,N/A,Not Applicable,What are the hospital timings?,hospital_timings
+393,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Kumar,P1393,General Inquiry,2026-09-07,02:30 PM,N/A,Not Applicable,What time does the Hanamkonda branch open?,hospital_timings
+394,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1394,General Inquiry,2026-09-08,09:30 AM,N/A,Not Applicable,When does the ENT centre close?,hospital_timings
+395,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Nair,P1395,General Inquiry,2026-09-09,12:00 PM,N/A,Not Applicable,Is the hospital open on Saturday?,hospital_timings
+396,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Patel,P1396,General Inquiry,2026-09-10,02:30 PM,N/A,Not Applicable,Can you tell me the clinic timings?,hospital_timings
+397,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1397,General Inquiry,2026-09-11,12:30 PM,N/A,Not Applicable,What are the hospital timings?,hospital_timings
+398,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1398,General Inquiry,2026-09-12,02:00 PM,N/A,Not Applicable,Does the hospital work in the afternoon?,hospital_timings
+399,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1399,General Inquiry,2026-09-13,09:30 AM,N/A,Not Applicable,Is the hospital open today?,hospital_timings
+400,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1400,General Inquiry,2026-09-14,11:00 AM,N/A,Not Applicable,Is the hospital open on Sunday?,hospital_timings
+401,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1401,Travel Assistance,2026-09-15,10:30 AM,N/A,Not Applicable,Please provide the clinic address.,hospital_location
+402,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Nair,P1402,Travel Assistance,2026-09-16,09:30 AM,N/A,Not Applicable,Where is the Hanamkonda ENT clinic?,hospital_location
+403,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1403,Travel Assistance,2026-09-17,04:00 PM,N/A,Not Applicable,Can you share the hospital address?,hospital_location
+404,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Kumar,P1404,Travel Assistance,2026-09-18,02:00 PM,N/A,Not Applicable,Give me directions to the hospital.,hospital_location
+405,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Das,P1405,Travel Assistance,2026-09-19,11:30 AM,N/A,Not Applicable,Give me the Hanamkonda branch address.,hospital_location
+406,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1406,Travel Assistance,2026-09-20,12:00 PM,N/A,Not Applicable,Where is the ENT centre located?,hospital_location
+407,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1407,Travel Assistance,2026-09-21,11:00 AM,N/A,Not Applicable,Please tell me where the hospital is.,hospital_location
+408,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1408,Travel Assistance,2026-09-22,03:30 PM,N/A,Not Applicable,Can you tell me the exact hospital location?,hospital_location
+409,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1409,Travel Assistance,2026-09-23,01:30 PM,N/A,Not Applicable,Is the hospital in Hanamkonda?,hospital_location
+410,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1410,Travel Assistance,2026-09-24,03:00 PM,N/A,Not Applicable,Please tell me where the hospital is.,hospital_location
+411,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Reddy,P1411,Travel Assistance,2026-09-25,12:00 PM,N/A,Not Applicable,Where is the ENT centre located?,hospital_location
+412,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Das,P1412,Travel Assistance,2026-09-26,02:30 PM,N/A,Not Applicable,Which area is the hospital in?,hospital_location
+413,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Reddy,P1413,Travel Assistance,2026-09-27,01:30 PM,N/A,Not Applicable,Can you tell me the exact hospital location?,hospital_location
+414,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1414,Travel Assistance,2026-09-28,03:30 PM,N/A,Not Applicable,Where is the hospital located?,hospital_location
+415,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Patel,P1415,Travel Assistance,2026-09-29,10:30 AM,N/A,Not Applicable,Is the hospital in Hanamkonda?,hospital_location
+416,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Das,P1416,Travel Assistance,2026-09-30,02:30 PM,N/A,Not Applicable,Is it near Asian Sridevi Mall?,hospital_location
+417,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Kumar,P1417,Travel Assistance,2026-10-01,01:00 PM,N/A,Not Applicable,Please tell me where the hospital is.,hospital_location
+418,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1418,Travel Assistance,2026-10-02,01:30 PM,N/A,Not Applicable,Can you tell me the exact hospital location?,hospital_location
+419,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Verma,P1419,Travel Assistance,2026-10-03,09:30 AM,N/A,Not Applicable,Where is the ENT centre located?,hospital_location
+420,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1420,Travel Assistance,2026-10-04,01:30 PM,N/A,Not Applicable,Please tell me where the hospital is.,hospital_location
+421,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Sharma,P1421,Travel Assistance,2026-09-05,09:30 AM,N/A,Not Applicable,How can I reach the Hanamkonda branch?,hospital_location
+422,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Rao,P1422,Travel Assistance,2026-09-06,12:00 PM,N/A,Not Applicable,Is the hospital in Hanamkonda?,hospital_location
+423,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1423,Travel Assistance,2026-09-07,02:30 PM,N/A,Not Applicable,How far is the hospital from Hanamkonda bus stand?,hospital_location
+424,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1424,Travel Assistance,2026-09-08,01:30 PM,N/A,Not Applicable,Is it near Asian Sridevi Mall?,hospital_location
+425,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Naidu,P1425,Travel Assistance,2026-09-09,04:30 PM,N/A,Not Applicable,Where can I find Dr Gouda Ramesh ENT Centre?,hospital_location
+426,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1426,Travel Assistance,2026-09-10,01:00 PM,N/A,Not Applicable,Which area is the hospital in?,hospital_location
+427,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1427,Travel Assistance,2026-09-11,09:00 AM,N/A,Not Applicable,How do I reach the Hanamkonda branch?,hospital_location
+428,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1428,Travel Assistance,2026-09-12,02:00 PM,N/A,Not Applicable,Give me directions to the hospital.,hospital_location
+429,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1429,Travel Assistance,2026-09-13,03:30 PM,N/A,Not Applicable,Where is the Hanamkonda ENT clinic?,hospital_location
+430,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Das,P1430,Travel Assistance,2026-09-14,09:30 AM,N/A,Not Applicable,Where is the hospital located?,hospital_location
+431,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1431,Travel Assistance,2026-09-15,09:00 AM,N/A,Not Applicable,Where is the hospital located?,hospital_location
+432,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Rao,P1432,Travel Assistance,2026-09-16,10:30 AM,N/A,Not Applicable,Can you share the hospital address?,hospital_location
+433,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Rao,P1433,Travel Assistance,2026-09-17,10:00 AM,N/A,Not Applicable,Give me directions to the hospital.,hospital_location
+434,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Singh,P1434,Travel Assistance,2026-09-18,04:30 PM,N/A,Not Applicable,Where is Dr Gouda Ramesh ENT Centre?,hospital_location
+435,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1435,Travel Assistance,2026-09-19,02:00 PM,N/A,Not Applicable,What is the hospital address?,hospital_location
+436,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1436,Travel Assistance,2026-09-20,02:00 PM,N/A,Not Applicable,Where is the ENT centre located?,hospital_location
+437,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1437,Travel Assistance,2026-09-21,11:00 AM,N/A,Not Applicable,Where can I find Dr Gouda Ramesh ENT Centre?,hospital_location
+438,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Verma,P1438,Travel Assistance,2026-09-22,12:30 PM,N/A,Not Applicable,Which area is the hospital in?,hospital_location
+439,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Sharma,P1439,Travel Assistance,2026-09-23,11:00 AM,N/A,Not Applicable,Where can I find Dr Gouda Ramesh ENT Centre?,hospital_location
+440,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Singh,P1440,Travel Assistance,2026-09-24,02:00 PM,N/A,Not Applicable,Where is the hospital located?,hospital_location
+441,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1441,Travel Assistance,2026-09-25,09:00 AM,N/A,Not Applicable,Where is the ENT centre located?,hospital_location
+442,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1442,Travel Assistance,2026-09-26,09:00 AM,N/A,Not Applicable,How do I reach the hospital?,hospital_location
+443,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Nair,P1443,Travel Assistance,2026-09-27,11:30 AM,N/A,Not Applicable,How far is the hospital from Hanamkonda bus stand?,hospital_location
+444,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1444,Travel Assistance,2026-09-28,01:30 PM,N/A,Not Applicable,Can you tell me the exact hospital location?,hospital_location
+445,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Nair,P1445,Travel Assistance,2026-09-29,09:00 AM,N/A,Not Applicable,How do I reach the hospital?,hospital_location
+446,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Reddy,P1446,Travel Assistance,2026-09-30,03:00 PM,N/A,Not Applicable,Where can I find Dr Gouda Ramesh ENT Centre?,hospital_location
+447,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1447,Travel Assistance,2026-10-01,01:00 PM,N/A,Not Applicable,Where is Dr Gouda Ramesh ENT Centre?,hospital_location
+448,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1448,Travel Assistance,2026-10-02,11:30 AM,N/A,Not Applicable,Is the hospital in Hanamkonda?,hospital_location
+449,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Nair,P1449,Travel Assistance,2026-10-03,11:00 AM,N/A,Not Applicable,Where is the Hanamkonda ENT clinic?,hospital_location
+450,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1450,Travel Assistance,2026-10-04,04:30 PM,N/A,Not Applicable,What is the hospital address?,hospital_location
+451,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Singh,P1451,Travel Assistance,2026-09-05,02:30 PM,N/A,Not Applicable,Where is the hospital located?,hospital_location
+452,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1452,Travel Assistance,2026-09-06,09:00 AM,N/A,Not Applicable,How far is the hospital from Hanamkonda bus stand?,hospital_location
+453,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Kumar,P1453,Travel Assistance,2026-09-07,02:30 PM,N/A,Not Applicable,Is the hospital near the bus stand?,hospital_location
+454,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1454,Travel Assistance,2026-09-08,01:30 PM,N/A,Not Applicable,How far is the hospital from Hanamkonda bus stand?,hospital_location
+455,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Kumar,P1455,Travel Assistance,2026-09-09,12:00 PM,N/A,Not Applicable,Please tell me where the hospital is.,hospital_location
+456,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Naidu,P1456,Travel Assistance,2026-09-10,03:30 PM,N/A,Not Applicable,Can you share the hospital address?,hospital_location
+457,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1457,Travel Assistance,2026-09-11,01:00 PM,N/A,Not Applicable,Give me directions to the hospital.,hospital_location
+458,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1458,Travel Assistance,2026-09-12,12:00 PM,N/A,Not Applicable,How do I reach the hospital?,hospital_location
+459,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1459,Travel Assistance,2026-09-13,11:30 AM,N/A,Not Applicable,Can you share the hospital address?,hospital_location
+460,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Singh,P1460,Travel Assistance,2026-09-14,01:00 PM,N/A,Not Applicable,Where is the Hanamkonda ENT clinic?,hospital_location
+461,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Sharma,P1461,Travel Assistance,2026-09-15,03:30 PM,N/A,Not Applicable,Is it near Asian Sridevi Mall?,hospital_location
+462,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1462,Travel Assistance,2026-09-16,02:30 PM,N/A,Not Applicable,What is the hospital address?,hospital_location
+463,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1463,Travel Assistance,2026-09-17,09:00 AM,N/A,Not Applicable,How can I reach the Hanamkonda branch?,hospital_location
+464,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Naidu,P1464,Travel Assistance,2026-09-18,02:00 PM,N/A,Not Applicable,Which area is the hospital in?,hospital_location
+465,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1465,Travel Assistance,2026-09-19,11:30 AM,N/A,Not Applicable,Is it near Asian Sridevi Mall?,hospital_location
+466,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1466,Travel Assistance,2026-09-20,12:00 PM,N/A,Not Applicable,Which area is the hospital in?,hospital_location
+467,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Das,P1467,Travel Assistance,2026-09-21,10:30 AM,N/A,Not Applicable,Give me the Hanamkonda branch address.,hospital_location
+468,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Das,P1468,Travel Assistance,2026-09-22,03:30 PM,N/A,Not Applicable,What is the location of the ENT centre?,hospital_location
+469,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1469,Travel Assistance,2026-09-23,10:30 AM,N/A,Not Applicable,Please provide the clinic address.,hospital_location
+470,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Verma,P1470,Travel Assistance,2026-09-24,09:00 AM,N/A,Not Applicable,How can I reach the Hanamkonda branch?,hospital_location
+471,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1471,Travel Assistance,2026-09-25,03:30 PM,N/A,Not Applicable,Give me directions to the hospital.,hospital_location
+472,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Das,P1472,Travel Assistance,2026-09-26,12:00 PM,N/A,Not Applicable,How do I reach the hospital?,hospital_location
+473,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1473,Travel Assistance,2026-09-27,12:00 PM,N/A,Not Applicable,Can you share the hospital address?,hospital_location
+474,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Singh,P1474,Travel Assistance,2026-09-28,01:30 PM,N/A,Not Applicable,Is the hospital in Hanamkonda?,hospital_location
+475,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Nair,P1475,Travel Assistance,2026-09-29,02:30 PM,N/A,Not Applicable,What is the location of the ENT centre?,hospital_location
+476,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Patel,P1476,Travel Assistance,2026-09-30,12:00 PM,N/A,Not Applicable,Is the hospital near the bus stand?,hospital_location
+477,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1477,Travel Assistance,2026-10-01,09:00 AM,N/A,Not Applicable,How do I reach the hospital?,hospital_location
+478,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1478,Travel Assistance,2026-10-02,04:30 PM,N/A,Not Applicable,Is the hospital near the bus stand?,hospital_location
+479,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1479,Travel Assistance,2026-10-03,03:30 PM,N/A,Not Applicable,How can I reach the Hanamkonda branch?,hospital_location
+480,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1480,Travel Assistance,2026-10-04,09:30 AM,N/A,Not Applicable,Can you tell me the exact hospital location?,hospital_location
+481,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Singh,P1481,Travel Assistance,2026-09-05,04:30 PM,N/A,Not Applicable,How far is the hospital from Hanamkonda bus stand?,hospital_location
+482,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1482,Travel Assistance,2026-09-06,04:00 PM,N/A,Not Applicable,Give me the Hanamkonda branch address.,hospital_location
+483,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1483,Travel Assistance,2026-09-07,12:30 PM,N/A,Not Applicable,Please provide the clinic address.,hospital_location
+484,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Rao,P1484,Travel Assistance,2026-09-08,09:00 AM,N/A,Not Applicable,Is the hospital near the bus stand?,hospital_location
+485,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Rao,P1485,Travel Assistance,2026-09-09,10:30 AM,N/A,Not Applicable,What is the hospital address?,hospital_location
+486,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1486,Travel Assistance,2026-09-10,04:00 PM,N/A,Not Applicable,Where is the Hanamkonda ENT clinic?,hospital_location
+487,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Naidu,P1487,Travel Assistance,2026-09-11,09:30 AM,N/A,Not Applicable,Please provide the clinic address.,hospital_location
+488,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1488,Travel Assistance,2026-09-12,03:00 PM,N/A,Not Applicable,What is the hospital address?,hospital_location
+489,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Nair,P1489,Travel Assistance,2026-09-13,03:00 PM,N/A,Not Applicable,Give me the Hanamkonda branch address.,hospital_location
+490,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1490,Travel Assistance,2026-09-14,02:30 PM,N/A,Not Applicable,Is it near Asian Sridevi Mall?,hospital_location
+491,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1491,Travel Assistance,2026-09-15,03:00 PM,N/A,Not Applicable,Is the hospital near the bus stand?,hospital_location
+492,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Sharma,P1492,Travel Assistance,2026-09-16,10:30 AM,N/A,Not Applicable,Please provide the clinic address.,hospital_location
+493,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Rao,P1493,Travel Assistance,2026-09-17,02:00 PM,N/A,Not Applicable,What is the location of the ENT centre?,hospital_location
+494,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Nair,P1494,Travel Assistance,2026-09-18,10:00 AM,N/A,Not Applicable,Where is Dr Gouda Ramesh ENT Centre?,hospital_location
+495,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1495,Travel Assistance,2026-09-19,09:00 AM,N/A,Not Applicable,Where can I find Dr Gouda Ramesh ENT Centre?,hospital_location
+496,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Rao,P1496,Travel Assistance,2026-09-20,04:30 PM,N/A,Not Applicable,Where is Dr Gouda Ramesh ENT Centre?,hospital_location
+497,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1497,Travel Assistance,2026-09-21,03:30 PM,N/A,Not Applicable,Give me the Hanamkonda branch address.,hospital_location
+498,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Reddy,P1498,Travel Assistance,2026-09-22,02:30 PM,N/A,Not Applicable,Where is Dr Gouda Ramesh ENT Centre?,hospital_location
+499,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1499,Travel Assistance,2026-09-23,12:30 PM,N/A,Not Applicable,What is the location of the ENT centre?,hospital_location
+500,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Das,P1500,Travel Assistance,2026-09-24,10:30 AM,N/A,Not Applicable,What is the location of the ENT centre?,hospital_location
+501,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Nair,P1501,Customer Support,2026-09-25,04:30 PM,N/A,Not Applicable,Give me the contact number.,contact_information
+502,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1502,Customer Support,2026-09-26,10:00 AM,N/A,Not Applicable,What number should I call for an appointment?,contact_information
+503,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1503,Customer Support,2026-09-27,02:30 PM,N/A,Not Applicable,How can I contact the hospital?,contact_information
+504,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Verma,P1504,Customer Support,2026-09-28,12:00 PM,N/A,Not Applicable,How do I contact the Hanamkonda branch?,contact_information
+505,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Reddy,P1505,Customer Support,2026-09-29,01:00 PM,N/A,Not Applicable,How do I contact the Hanamkonda branch?,contact_information
+506,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1506,Customer Support,2026-09-30,09:00 AM,N/A,Not Applicable,What is the hospital phone number?,contact_information
+507,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1507,Customer Support,2026-10-01,10:30 AM,N/A,Not Applicable,How do I speak to the hospital staff?,contact_information
+508,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Singh,P1508,Customer Support,2026-10-02,12:30 PM,N/A,Not Applicable,Where can I find the hospital contact details?,contact_information
+509,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1509,Customer Support,2026-10-03,09:30 AM,N/A,Not Applicable,Can I call the hospital?,contact_information
+510,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1510,Customer Support,2026-10-04,04:30 PM,N/A,Not Applicable,Can you provide the contact details?,contact_information
+511,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1511,Customer Support,2026-09-05,04:00 PM,N/A,Not Applicable,What is the hospital's contact number?,contact_information
+512,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Singh,P1512,Customer Support,2026-09-06,03:30 PM,N/A,Not Applicable,What is the clinic telephone number?,contact_information
+513,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Patel,P1513,Customer Support,2026-09-07,01:30 PM,N/A,Not Applicable,Is there a number for appointment enquiries?,contact_information
+514,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Nair,P1514,Customer Support,2026-09-08,11:30 AM,N/A,Not Applicable,How can I contact the hospital?,contact_information
+515,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1515,Customer Support,2026-09-09,03:00 PM,N/A,Not Applicable,Can you provide the contact details?,contact_information
+516,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Das,P1516,Customer Support,2026-09-10,10:00 AM,N/A,Not Applicable,Is there a number for appointment enquiries?,contact_information
+517,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1517,Customer Support,2026-09-11,09:30 AM,N/A,Not Applicable,Where can I find the hospital contact details?,contact_information
+518,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1518,Customer Support,2026-09-12,04:00 PM,N/A,Not Applicable,What number can I call for information?,contact_information
+519,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1519,Customer Support,2026-09-13,01:30 PM,N/A,Not Applicable,What number can I call for information?,contact_information
+520,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1520,Customer Support,2026-09-14,11:30 AM,N/A,Not Applicable,How do I contact the Hanamkonda branch?,contact_information
+521,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1521,Customer Support,2026-09-15,02:30 PM,N/A,Not Applicable,Who should I call to book an appointment?,contact_information
+522,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Verma,P1522,Customer Support,2026-09-16,04:00 PM,N/A,Not Applicable,Please provide the appointment contact number.,contact_information
+523,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1523,Customer Support,2026-09-17,03:30 PM,N/A,Not Applicable,Is there a number for appointment enquiries?,contact_information
+524,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1524,Customer Support,2026-09-18,11:30 AM,N/A,Not Applicable,What number should I call for an appointment?,contact_information
+525,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1525,Customer Support,2026-09-19,02:00 PM,N/A,Not Applicable,Please give me the hospital telephone details.,contact_information
+526,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1526,Customer Support,2026-09-20,10:00 AM,N/A,Not Applicable,What number can I call for information?,contact_information
+527,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1527,Customer Support,2026-09-21,03:30 PM,N/A,Not Applicable,How do I contact the Hanamkonda branch?,contact_information
+528,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1528,Customer Support,2026-09-22,11:30 AM,N/A,Not Applicable,How do I reach the hospital by phone?,contact_information
+529,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1529,Customer Support,2026-09-23,03:00 PM,N/A,Not Applicable,Where can I find the hospital contact details?,contact_information
+530,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Singh,P1530,Customer Support,2026-09-24,01:30 PM,N/A,Not Applicable,How can I contact Dr Gouda Ramesh ENT Centre?,contact_information
+531,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Nair,P1531,Customer Support,2026-09-25,12:30 PM,N/A,Not Applicable,How can I contact the hospital?,contact_information
+532,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Naidu,P1532,Customer Support,2026-09-26,01:30 PM,N/A,Not Applicable,Can I get the clinic phone number?,contact_information
+533,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1533,Customer Support,2026-09-27,04:00 PM,N/A,Not Applicable,How can I contact Dr Gouda Ramesh ENT Centre?,contact_information
+534,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1534,Customer Support,2026-09-28,04:00 PM,N/A,Not Applicable,Please provide the appointment contact number.,contact_information
+535,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Patel,P1535,Customer Support,2026-09-29,01:30 PM,N/A,Not Applicable,Can I get the clinic phone number?,contact_information
+536,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1536,Customer Support,2026-09-30,09:00 AM,N/A,Not Applicable,Please provide the appointment contact number.,contact_information
+537,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Reddy,P1537,Customer Support,2026-10-01,09:00 AM,N/A,Not Applicable,Please give me the hospital telephone details.,contact_information
+538,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1538,Customer Support,2026-10-02,11:00 AM,N/A,Not Applicable,Who should I call to book an appointment?,contact_information
+539,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1539,Customer Support,2026-10-03,11:30 AM,N/A,Not Applicable,What is the clinic telephone number?,contact_information
+540,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1540,Customer Support,2026-10-04,12:00 PM,N/A,Not Applicable,How do I contact the hospital?,contact_information
+541,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Verma,P1541,Customer Support,2026-09-05,02:00 PM,N/A,Not Applicable,What is the hospital's contact number?,contact_information
+542,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1542,Customer Support,2026-09-06,09:00 AM,N/A,Not Applicable,What is the hospital phone number?,contact_information
+543,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Naidu,P1543,Customer Support,2026-09-07,10:00 AM,N/A,Not Applicable,Can I call the hospital?,contact_information
+544,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Singh,P1544,Customer Support,2026-09-08,03:30 PM,N/A,Not Applicable,What number can I call for information?,contact_information
+545,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Das,P1545,Customer Support,2026-09-09,09:30 AM,N/A,Not Applicable,How do I contact the Hanamkonda branch?,contact_information
+546,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1546,Customer Support,2026-09-10,10:00 AM,N/A,Not Applicable,What is the hospital phone number?,contact_information
+547,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1547,Customer Support,2026-09-11,11:00 AM,N/A,Not Applicable,Can I get the clinic phone number?,contact_information
+548,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1548,Customer Support,2026-09-12,11:30 AM,N/A,Not Applicable,Give me the contact number.,contact_information
+549,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Reddy,P1549,Customer Support,2026-09-13,12:00 PM,N/A,Not Applicable,Is there a number for appointment enquiries?,contact_information
+550,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Das,P1550,Customer Support,2026-09-14,04:30 PM,N/A,Not Applicable,Where can I find the hospital contact details?,contact_information
+551,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1551,Customer Support,2026-09-15,09:30 AM,N/A,Not Applicable,What is the hospital's contact number?,contact_information
+552,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1552,Customer Support,2026-09-16,11:00 AM,N/A,Not Applicable,How can I speak to the hospital staff?,contact_information
+553,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Kumar,P1553,Customer Support,2026-09-17,02:30 PM,N/A,Not Applicable,How can I contact Dr Gouda Ramesh ENT Centre?,contact_information
+554,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Naidu,P1554,Customer Support,2026-09-18,03:00 PM,N/A,Not Applicable,Can I call the hospital?,contact_information
+555,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Nair,P1555,Customer Support,2026-09-19,02:30 PM,N/A,Not Applicable,Who should I call to book an appointment?,contact_information
+556,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Rao,P1556,Customer Support,2026-09-20,02:30 PM,N/A,Not Applicable,What is the clinic telephone number?,contact_information
+557,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Nair,P1557,Customer Support,2026-09-21,04:30 PM,N/A,Not Applicable,Please provide the appointment contact number.,contact_information
+558,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1558,Customer Support,2026-09-22,12:00 PM,N/A,Not Applicable,How can I contact the hospital?,contact_information
+559,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Singh,P1559,Customer Support,2026-09-23,11:00 AM,N/A,Not Applicable,Can I call the hospital?,contact_information
+560,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1560,Customer Support,2026-09-24,09:30 AM,N/A,Not Applicable,Who should I call to book an appointment?,contact_information
+561,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1561,Customer Support,2026-09-25,02:00 PM,N/A,Not Applicable,How can I speak to the hospital staff?,contact_information
+562,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Naidu,P1562,Customer Support,2026-09-26,02:30 PM,N/A,Not Applicable,Please give me the hospital telephone details.,contact_information
+563,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1563,Customer Support,2026-09-27,03:00 PM,N/A,Not Applicable,Can you provide the contact details?,contact_information
+564,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Verma,P1564,Customer Support,2026-09-28,01:30 PM,N/A,Not Applicable,Where can I find the hospital contact details?,contact_information
+565,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Das,P1565,Customer Support,2026-09-29,09:30 AM,N/A,Not Applicable,What is the hospital phone number?,contact_information
+566,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1566,Customer Support,2026-09-30,09:00 AM,N/A,Not Applicable,Please give me the hospital telephone details.,contact_information
+567,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Naidu,P1567,Customer Support,2026-10-01,03:30 PM,N/A,Not Applicable,Give me the contact number.,contact_information
+568,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Kumar,P1568,Customer Support,2026-10-02,02:30 PM,N/A,Not Applicable,Can you provide the contact details?,contact_information
+569,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1569,Customer Support,2026-10-03,11:00 AM,N/A,Not Applicable,How can I speak to the hospital staff?,contact_information
+570,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1570,Customer Support,2026-10-04,01:30 PM,N/A,Not Applicable,Please give me the hospital telephone details.,contact_information
+571,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Kumar,P1571,Customer Support,2026-09-05,12:30 PM,N/A,Not Applicable,Could I get the clinic phone number?,contact_information
+572,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Sharma,P1572,Customer Support,2026-09-06,04:30 PM,N/A,Not Applicable,What is the hospital's contact number?,contact_information
+573,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1573,Customer Support,2026-09-07,11:00 AM,N/A,Not Applicable,What number should I call for an appointment?,contact_information
+574,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1574,Customer Support,2026-09-08,01:30 PM,N/A,Not Applicable,I need the hospital's phone contact.,contact_information
+575,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1575,Customer Support,2026-09-09,04:00 PM,N/A,Not Applicable,What number should I call for an appointment?,contact_information
+576,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1576,Customer Support,2026-09-10,01:00 PM,N/A,Not Applicable,How do I reach the hospital by phone?,contact_information
+577,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1577,Customer Support,2026-09-11,04:30 PM,N/A,Not Applicable,I need the hospital's phone contact.,contact_information
+578,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1578,Customer Support,2026-09-12,11:30 AM,N/A,Not Applicable,How do I contact Dr Gouda Ramesh ENT Centre?,contact_information
+579,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1579,Customer Support,2026-09-13,11:30 AM,N/A,Not Applicable,Can you provide the contact details?,contact_information
+580,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1580,Customer Support,2026-09-14,09:30 AM,N/A,Not Applicable,Give me the contact number.,contact_information
+581,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Sharma,P1581,Customer Support,2026-09-15,02:00 PM,N/A,Not Applicable,Is there a number for appointment enquiries?,contact_information
+582,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Patel,P1582,Customer Support,2026-09-16,02:30 PM,N/A,Not Applicable,I need the hospital's phone contact.,contact_information
+583,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1583,Customer Support,2026-09-17,09:30 AM,N/A,Not Applicable,What is the hospital phone number?,contact_information
+584,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1584,Customer Support,2026-09-18,01:00 PM,N/A,Not Applicable,I need the hospital's phone contact.,contact_information
+585,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1585,Customer Support,2026-09-19,10:30 AM,N/A,Not Applicable,How can I speak to the hospital staff?,contact_information
+586,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Nair,P1586,Customer Support,2026-09-20,11:30 AM,N/A,Not Applicable,Could I call the hospital?,contact_information
+587,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1587,Customer Support,2026-09-21,12:00 PM,N/A,Not Applicable,What number can I call for information?,contact_information
+588,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1588,Customer Support,2026-09-22,12:30 PM,N/A,Not Applicable,How do I reach the hospital by phone?,contact_information
+589,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Naidu,P1589,Customer Support,2026-09-23,12:30 PM,N/A,Not Applicable,What is the clinic telephone number?,contact_information
+590,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1590,Customer Support,2026-09-24,02:00 PM,N/A,Not Applicable,Please provide the appointment contact number.,contact_information
+591,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Singh,P1591,Customer Support,2026-09-25,09:00 AM,N/A,Not Applicable,How can I contact Dr Gouda Ramesh ENT Centre?,contact_information
+592,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1592,Customer Support,2026-09-26,11:00 AM,N/A,Not Applicable,What is the hospital's contact number?,contact_information
+593,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Kumar,P1593,Customer Support,2026-09-27,12:00 PM,N/A,Not Applicable,Who should I call to book an appointment?,contact_information
+594,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Reddy,P1594,Customer Support,2026-09-28,04:30 PM,N/A,Not Applicable,What number should I call for an appointment?,contact_information
+595,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1595,Customer Support,2026-09-29,10:00 AM,N/A,Not Applicable,How do I reach the hospital by phone?,contact_information
+596,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Nair,P1596,Customer Support,2026-09-30,12:30 PM,N/A,Not Applicable,What is the clinic telephone number?,contact_information
+597,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Singh,P1597,Customer Support,2026-10-01,02:30 PM,N/A,Not Applicable,I need the hospital's phone contact.,contact_information
+598,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1598,Customer Support,2026-10-02,04:00 PM,N/A,Not Applicable,Can I get the clinic phone number?,contact_information
+599,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Verma,P1599,Customer Support,2026-10-03,02:00 PM,N/A,Not Applicable,How do I reach the hospital by phone?,contact_information
+600,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Verma,P1600,Customer Support,2026-10-04,01:00 PM,N/A,Not Applicable,Give me the contact number.,contact_information
+601,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1601,Insurance Claim,2026-09-05,10:30 AM,N/A,Not Applicable,Do you accept health insurance?,insurance
+602,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1602,Insurance Claim,2026-09-06,01:00 PM,N/A,Not Applicable,Does the hospital accept insurance?,insurance
+603,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1603,Insurance Claim,2026-09-07,01:30 PM,N/A,Not Applicable,Do you have an insurance facility?,insurance
+604,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Rao,P1604,Insurance Claim,2026-09-08,01:00 PM,N/A,Not Applicable,Is my health insurance accepted here?,insurance
+605,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Kumar,P1605,Insurance Claim,2026-09-09,04:00 PM,N/A,Not Applicable,What insurance plans are accepted?,insurance
+606,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Sharma,P1606,Insurance Claim,2026-09-10,04:30 PM,N/A,Not Applicable,Can I use my health insurance for consultation?,insurance
+607,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Sharma,P1607,Insurance Claim,2026-09-11,12:30 PM,N/A,Not Applicable,What are the insurance options?,insurance
+608,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Singh,P1608,Insurance Claim,2026-09-12,11:00 AM,N/A,Not Applicable,How can I use insurance for treatment?,insurance
+609,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1609,Insurance Claim,2026-09-13,01:30 PM,N/A,Not Applicable,How do I use insurance for treatment?,insurance
+610,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Reddy,P1610,Insurance Claim,2026-09-14,09:30 AM,N/A,Not Applicable,Does the clinic accept medical insurance?,insurance
+611,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Reddy,P1611,Insurance Claim,2026-09-15,12:30 PM,N/A,Not Applicable,Does the hospital provide insurance support?,insurance
+612,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Reddy,P1612,Insurance Claim,2026-09-16,12:00 PM,N/A,Not Applicable,Can I use my health insurance for consultation?,insurance
+613,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Patel,P1613,Insurance Claim,2026-09-17,11:00 AM,N/A,Not Applicable,Please tell me whether insurance is accepted.,insurance
+614,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Das,P1614,Insurance Claim,2026-09-18,01:00 PM,N/A,Not Applicable,Is insurance accepted for ENT treatment?,insurance
+615,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1615,Insurance Claim,2026-09-19,12:30 PM,N/A,Not Applicable,Can I pay using an insurance policy?,insurance
+616,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1616,Insurance Claim,2026-09-20,04:00 PM,N/A,Not Applicable,I want to know about insurance facilities.,insurance
+617,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Rao,P1617,Insurance Claim,2026-09-21,04:00 PM,N/A,Not Applicable,Does the hospital accept insurance?,insurance
+618,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1618,Insurance Claim,2026-09-22,12:30 PM,N/A,Not Applicable,Please tell me whether insurance is accepted.,insurance
+619,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1619,Insurance Claim,2026-09-23,12:00 PM,N/A,Not Applicable,What insurance plans are accepted?,insurance
+620,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Kumar,P1620,Insurance Claim,2026-09-24,09:30 AM,N/A,Not Applicable,Do you have an insurance facility?,insurance
+621,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1621,Insurance Claim,2026-09-25,01:30 PM,N/A,Not Applicable,Could I claim insurance for treatment?,insurance
+622,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Das,P1622,Insurance Claim,2026-09-26,09:00 AM,N/A,Not Applicable,How can I use insurance for treatment?,insurance
+623,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Naidu,P1623,Insurance Claim,2026-09-27,12:30 PM,N/A,Not Applicable,I want to know about insurance facilities.,insurance
+624,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Patel,P1624,Insurance Claim,2026-09-28,01:30 PM,N/A,Not Applicable,Does the hospital provide insurance support?,insurance
+625,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1625,Insurance Claim,2026-09-29,11:30 AM,N/A,Not Applicable,Does the hospital accept insurance?,insurance
+626,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Sharma,P1626,Insurance Claim,2026-09-30,04:30 PM,N/A,Not Applicable,Can I use my insurance at the hospital?,insurance
+627,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1627,Insurance Claim,2026-10-01,03:00 PM,N/A,Not Applicable,Is my health insurance accepted here?,insurance
+628,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1628,Insurance Claim,2026-10-02,03:30 PM,N/A,Not Applicable,Could I use my insurance at the hospital?,insurance
+629,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Naidu,P1629,Insurance Claim,2026-10-03,03:30 PM,N/A,Not Applicable,Can I use insurance for my ENT consultation?,insurance
+630,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Rao,P1630,Insurance Claim,2026-10-04,09:30 AM,N/A,Not Applicable,Do you accept health insurance?,insurance
+631,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Kumar,P1631,Insurance Claim,2026-09-05,10:30 AM,N/A,Not Applicable,Can I get cashless insurance treatment?,insurance
+632,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1632,Insurance Claim,2026-09-06,11:00 AM,N/A,Not Applicable,Does the clinic accept medical insurance?,insurance
+633,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Patel,P1633,Insurance Claim,2026-09-07,09:00 AM,N/A,Not Applicable,Is insurance accepted for ENT treatment?,insurance
+634,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Sharma,P1634,Insurance Claim,2026-09-08,01:00 PM,N/A,Not Applicable,I want to know about insurance facilities.,insurance
+635,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1635,Insurance Claim,2026-09-09,03:00 PM,N/A,Not Applicable,Is my health insurance accepted here?,insurance
+636,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1636,Insurance Claim,2026-09-10,11:30 AM,N/A,Not Applicable,What are the insurance options?,insurance
+637,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Sharma,P1637,Insurance Claim,2026-09-11,01:00 PM,N/A,Not Applicable,Do you accept health insurance?,insurance
+638,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Das,P1638,Insurance Claim,2026-09-12,12:00 PM,N/A,Not Applicable,Can I use my health insurance for consultation?,insurance
+639,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1639,Insurance Claim,2026-09-13,11:30 AM,N/A,Not Applicable,Can I claim insurance for treatment?,insurance
+640,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1640,Insurance Claim,2026-09-14,09:00 AM,N/A,Not Applicable,Please tell me whether insurance is accepted.,insurance
+641,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Naidu,P1641,Insurance Claim,2026-09-15,09:00 AM,N/A,Not Applicable,Is cashless treatment available?,insurance
+642,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Naidu,P1642,Insurance Claim,2026-09-16,01:30 PM,N/A,Not Applicable,Can I pay using an insurance policy?,insurance
+643,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1643,Insurance Claim,2026-09-17,02:00 PM,N/A,Not Applicable,Do you accept Arogyasri?,insurance
+644,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Sharma,P1644,Insurance Claim,2026-09-18,09:30 AM,N/A,Not Applicable,Do you have an insurance facility?,insurance
+645,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1645,Insurance Claim,2026-09-19,12:30 PM,N/A,Not Applicable,Do you accept health insurance?,insurance
+646,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Das,P1646,Insurance Claim,2026-09-20,01:30 PM,N/A,Not Applicable,Does the clinic accept medical insurance?,insurance
+647,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1647,Insurance Claim,2026-09-21,09:30 AM,N/A,Not Applicable,Do you have an insurance facility?,insurance
+648,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Patel,P1648,Insurance Claim,2026-09-22,01:00 PM,N/A,Not Applicable,Does the hospital accept insurance?,insurance
+649,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1649,Insurance Claim,2026-09-23,11:30 AM,N/A,Not Applicable,Can I use my health insurance for consultation?,insurance
+650,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Reddy,P1650,Insurance Claim,2026-09-24,09:30 AM,N/A,Not Applicable,Does the clinic accept medical insurance?,insurance
+651,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1651,Insurance Claim,2026-09-25,09:00 AM,N/A,Not Applicable,Is insurance accepted for ENT treatment?,insurance
+652,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1652,Insurance Claim,2026-09-26,01:30 PM,N/A,Not Applicable,How can I use insurance for treatment?,insurance
+653,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Verma,P1653,Insurance Claim,2026-09-27,02:00 PM,N/A,Not Applicable,Can I use insurance for my ENT consultation?,insurance
+654,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1654,Insurance Claim,2026-09-28,11:30 AM,N/A,Not Applicable,Is my health insurance accepted here?,insurance
+655,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Naidu,P1655,Insurance Claim,2026-09-29,11:30 AM,N/A,Not Applicable,Do you accept health insurance?,insurance
+656,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1656,Insurance Claim,2026-09-30,11:00 AM,N/A,Not Applicable,How can I use insurance for treatment?,insurance
+657,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Singh,P1657,Insurance Claim,2026-10-01,10:00 AM,N/A,Not Applicable,Can I pay using an insurance policy?,insurance
+658,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1658,Insurance Claim,2026-10-02,12:00 PM,N/A,Not Applicable,What insurance plans are accepted?,insurance
+659,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Sharma,P1659,Insurance Claim,2026-10-03,03:30 PM,N/A,Not Applicable,I want to know about insurance facilities.,insurance
+660,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Rao,P1660,Insurance Claim,2026-10-04,03:30 PM,N/A,Not Applicable,Does the hospital accept insurance?,insurance
+661,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Singh,P1661,Insurance Claim,2026-09-05,03:30 PM,N/A,Not Applicable,Please tell me whether insurance is accepted.,insurance
+662,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Rao,P1662,Insurance Claim,2026-09-06,10:00 AM,N/A,Not Applicable,Could I get cashless insurance treatment?,insurance
+663,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1663,Insurance Claim,2026-09-07,04:00 PM,N/A,Not Applicable,Could I use my health insurance for consultation?,insurance
+664,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1664,Insurance Claim,2026-09-08,04:30 PM,N/A,Not Applicable,Can I use insurance for my ENT consultation?,insurance
+665,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1665,Insurance Claim,2026-09-09,11:00 AM,N/A,Not Applicable,Is cashless treatment available?,insurance
+666,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1666,Insurance Claim,2026-09-10,01:00 PM,N/A,Not Applicable,Could I pay using an insurance policy?,insurance
+667,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1667,Insurance Claim,2026-09-11,11:00 AM,N/A,Not Applicable,Please tell me whether insurance is accepted.,insurance
+668,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1668,Insurance Claim,2026-09-12,12:00 PM,N/A,Not Applicable,Can I use insurance for my ENT consultation?,insurance
+669,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1669,Insurance Claim,2026-09-13,03:00 PM,N/A,Not Applicable,Is insurance accepted for ENT treatment?,insurance
+670,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Verma,P1670,Insurance Claim,2026-09-14,12:30 PM,N/A,Not Applicable,What are the insurance options?,insurance
+671,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1671,Insurance Claim,2026-09-15,03:00 PM,N/A,Not Applicable,Can I use my insurance at the hospital?,insurance
+672,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1672,Insurance Claim,2026-09-16,09:00 AM,N/A,Not Applicable,Can I claim insurance for treatment?,insurance
+673,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Das,P1673,Insurance Claim,2026-09-17,12:30 PM,N/A,Not Applicable,Can I get cashless insurance treatment?,insurance
+674,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1674,Insurance Claim,2026-09-18,02:30 PM,N/A,Not Applicable,Is cashless treatment available?,insurance
+675,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1675,Insurance Claim,2026-09-19,11:00 AM,N/A,Not Applicable,Is cashless treatment available?,insurance
+676,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Rao,P1676,Insurance Claim,2026-09-20,12:00 PM,N/A,Not Applicable,What are the insurance options?,insurance
+677,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1677,Insurance Claim,2026-09-21,01:00 PM,N/A,Not Applicable,Can I claim insurance for treatment?,insurance
+678,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Nair,P1678,Insurance Claim,2026-09-22,02:30 PM,N/A,Not Applicable,Does the hospital provide insurance support?,insurance
+679,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1679,Insurance Claim,2026-09-23,03:30 PM,N/A,Not Applicable,Can I pay using an insurance policy?,insurance
+680,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Singh,P1680,Insurance Claim,2026-09-24,09:00 AM,N/A,Not Applicable,Is my health insurance accepted here?,insurance
+681,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1681,Insurance Claim,2026-09-25,02:00 PM,N/A,Not Applicable,Does the clinic accept medical insurance?,insurance
+682,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Naidu,P1682,Insurance Claim,2026-09-26,01:30 PM,N/A,Not Applicable,Do you accept Arogyasri?,insurance
+683,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Verma,P1683,Insurance Claim,2026-09-27,12:00 PM,N/A,Not Applicable,What are the insurance options?,insurance
+684,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1684,Insurance Claim,2026-09-28,12:30 PM,N/A,Not Applicable,What insurance plans are accepted?,insurance
+685,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1685,Insurance Claim,2026-09-29,11:30 AM,N/A,Not Applicable,Do you have an insurance facility?,insurance
+686,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Patel,P1686,Insurance Claim,2026-09-30,03:30 PM,N/A,Not Applicable,Is insurance accepted for ENT treatment?,insurance
+687,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Kumar,P1687,Insurance Claim,2026-10-01,11:30 AM,N/A,Not Applicable,Can I use my insurance at the hospital?,insurance
+688,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Kumar,P1688,Insurance Claim,2026-10-02,09:30 AM,N/A,Not Applicable,Is cashless treatment available?,insurance
+689,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1689,Insurance Claim,2026-10-03,02:00 PM,N/A,Not Applicable,Can I use my insurance at the hospital?,insurance
+690,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1690,Insurance Claim,2026-10-04,12:30 PM,N/A,Not Applicable,Do you accept Arogyasri?,insurance
+691,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1691,Insurance Claim,2026-09-05,03:00 PM,N/A,Not Applicable,Does the hospital provide insurance support?,insurance
+692,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Nair,P1692,Insurance Claim,2026-09-06,10:00 AM,N/A,Not Applicable,Can I get cashless insurance treatment?,insurance
+693,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Rao,P1693,Insurance Claim,2026-09-07,12:30 PM,N/A,Not Applicable,Does the hospital provide insurance support?,insurance
+694,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Sharma,P1694,Insurance Claim,2026-09-08,03:30 PM,N/A,Not Applicable,Do you accept Arogyasri?,insurance
+695,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Nair,P1695,Insurance Claim,2026-09-09,03:30 PM,N/A,Not Applicable,What insurance plans are accepted?,insurance
+696,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1696,Insurance Claim,2026-09-10,01:00 PM,N/A,Not Applicable,Can I claim insurance for treatment?,insurance
+697,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Patel,P1697,Insurance Claim,2026-09-11,02:00 PM,N/A,Not Applicable,Do you accept Arogyasri?,insurance
+698,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1698,Insurance Claim,2026-09-12,10:00 AM,N/A,Not Applicable,Can I get cashless insurance treatment?,insurance
+699,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Verma,P1699,Insurance Claim,2026-09-13,09:30 AM,N/A,Not Applicable,I would like to know about insurance facilities.,insurance
+700,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1700,Insurance Claim,2026-09-14,09:30 AM,N/A,Not Applicable,Could I use insurance for my ENT consultation?,insurance
+701,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Verma,P1701,Billing Issue,2026-09-15,12:00 PM,N/A,Not Applicable,Do you accept debit cards?,payment
+702,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Singh,P1702,Billing Issue,2026-09-16,02:00 PM,N/A,Not Applicable,Does the hospital accept cash?,payment
+703,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Patel,P1703,Billing Issue,2026-09-17,11:00 AM,N/A,Not Applicable,Can I pay the consultation fee by UPI?,payment
+704,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Patel,P1704,Billing Issue,2026-09-18,01:00 PM,N/A,Not Applicable,Can I use a credit card for payment?,payment
+705,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1705,Billing Issue,2026-09-19,11:00 AM,N/A,Not Applicable,Can I pay by credit card?,payment
+706,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1706,Billing Issue,2026-09-20,10:00 AM,N/A,Not Applicable,What payment options does the hospital provide?,payment
+707,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Reddy,P1707,Billing Issue,2026-09-21,03:30 PM,N/A,Not Applicable,Do you accept electronic payments?,payment
+708,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Singh,P1708,Billing Issue,2026-09-22,01:00 PM,N/A,Not Applicable,What payment methods are available?,payment
+709,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Kumar,P1709,Billing Issue,2026-09-23,02:30 PM,N/A,Not Applicable,Can I use UPI for my hospital bill?,payment
+710,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Rao,P1710,Billing Issue,2026-09-24,12:30 PM,N/A,Not Applicable,What payment methods are available?,payment
+711,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1711,Billing Issue,2026-09-25,04:00 PM,N/A,Not Applicable,Can I pay with a debit card?,payment
+712,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Patel,P1712,Billing Issue,2026-09-26,04:00 PM,N/A,Not Applicable,Do you accept online payments?,payment
+713,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Patel,P1713,Billing Issue,2026-09-27,09:00 AM,N/A,Not Applicable,Could I pay by credit card?,payment
+714,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1714,Billing Issue,2026-09-28,02:30 PM,N/A,Not Applicable,Is UPI payment available at the clinic?,payment
+715,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Nair,P1715,Billing Issue,2026-09-29,12:30 PM,N/A,Not Applicable,Does the hospital accept cash?,payment
+716,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1716,Billing Issue,2026-09-30,04:30 PM,N/A,Not Applicable,Can I pay with a debit card?,payment
+717,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Patel,P1717,Billing Issue,2026-10-01,12:00 PM,N/A,Not Applicable,What payment options does the hospital provide?,payment
+718,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1718,Billing Issue,2026-10-02,01:30 PM,N/A,Not Applicable,Please tell me how I can make the payment.,payment
+719,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Das,P1719,Billing Issue,2026-10-03,12:00 PM,N/A,Not Applicable,Is UPI payment available at the clinic?,payment
+720,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1720,Billing Issue,2026-10-04,03:00 PM,N/A,Not Applicable,Please tell me how I can make the payment.,payment
+721,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Singh,P1721,Billing Issue,2026-09-05,04:00 PM,N/A,Not Applicable,Do you accept electronic payments?,payment
+722,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1722,Billing Issue,2026-09-06,09:30 AM,N/A,Not Applicable,Do you accept online payments?,payment
+723,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1723,Billing Issue,2026-09-07,02:00 PM,N/A,Not Applicable,Can I pay in cash?,payment
+724,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Nair,P1724,Billing Issue,2026-09-08,12:30 PM,N/A,Not Applicable,Please tell me how I can make the payment.,payment
+725,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Das,P1725,Billing Issue,2026-09-09,12:30 PM,N/A,Not Applicable,Can I pay in cash?,payment
+726,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1726,Billing Issue,2026-09-10,11:30 AM,N/A,Not Applicable,Can I use a credit card for payment?,payment
+727,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1727,Billing Issue,2026-09-11,04:30 PM,N/A,Not Applicable,Do you accept debit cards?,payment
+728,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Nair,P1728,Billing Issue,2026-09-12,10:00 AM,N/A,Not Applicable,Do you accept electronic payments?,payment
+729,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1729,Billing Issue,2026-09-13,12:00 PM,N/A,Not Applicable,Can I use UPI for my hospital bill?,payment
+730,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Naidu,P1730,Billing Issue,2026-09-14,10:00 AM,N/A,Not Applicable,Can I pay in cash?,payment
+731,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Singh,P1731,Billing Issue,2026-09-15,04:30 PM,N/A,Not Applicable,Can I use UPI for my hospital bill?,payment
+732,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1732,Billing Issue,2026-09-16,01:30 PM,N/A,Not Applicable,What are the available payment options?,payment
+733,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1733,Billing Issue,2026-09-17,10:30 AM,N/A,Not Applicable,Does the hospital accept cash?,payment
+734,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1734,Billing Issue,2026-09-18,03:00 PM,N/A,Not Applicable,Can I pay with a debit card?,payment
+735,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Sharma,P1735,Billing Issue,2026-09-19,11:00 AM,N/A,Not Applicable,Do you accept online payments?,payment
+736,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Reddy,P1736,Billing Issue,2026-09-20,04:00 PM,N/A,Not Applicable,Is card payment accepted?,payment
+737,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1737,Billing Issue,2026-09-21,12:30 PM,N/A,Not Applicable,What are the available payment options?,payment
+738,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1738,Billing Issue,2026-09-22,02:30 PM,N/A,Not Applicable,What are the available payment options?,payment
+739,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Nair,P1739,Billing Issue,2026-09-23,03:30 PM,N/A,Not Applicable,Could I pay the consultation fee by UPI?,payment
+740,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1740,Billing Issue,2026-09-24,12:30 PM,N/A,Not Applicable,Do you accept debit cards?,payment
+741,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Nair,P1741,Billing Issue,2026-09-25,04:00 PM,N/A,Not Applicable,Does the hospital accept cash?,payment
+742,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Naidu,P1742,Billing Issue,2026-09-26,04:30 PM,N/A,Not Applicable,Is card payment accepted?,payment
+743,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1743,Billing Issue,2026-09-27,03:00 PM,N/A,Not Applicable,How can I pay the consultation fee?,payment
+744,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1744,Billing Issue,2026-09-28,11:30 AM,N/A,Not Applicable,Can I pay by UPI?,payment
+745,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Nair,P1745,Billing Issue,2026-09-29,10:30 AM,N/A,Not Applicable,How do I pay the consultation fee?,payment
+746,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1746,Billing Issue,2026-09-30,12:30 PM,N/A,Not Applicable,Do you accept online payments?,payment
+747,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1747,Billing Issue,2026-10-01,04:30 PM,N/A,Not Applicable,Do you accept digital payments?,payment
+748,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Verma,P1748,Billing Issue,2026-10-02,12:30 PM,N/A,Not Applicable,Could I pay with a debit card?,payment
+749,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Reddy,P1749,Billing Issue,2026-10-03,04:00 PM,N/A,Not Applicable,Can I pay by credit card?,payment
+750,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1750,Billing Issue,2026-10-04,03:00 PM,N/A,Not Applicable,Can I pay by UPI?,payment
+751,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Singh,P1751,Billing Issue,2026-09-05,10:30 AM,N/A,Not Applicable,Do you accept debit cards?,payment
+752,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1752,Billing Issue,2026-09-06,04:00 PM,N/A,Not Applicable,Can I pay by credit card?,payment
+753,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Verma,P1753,Billing Issue,2026-09-07,11:30 AM,N/A,Not Applicable,Can I pay by UPI?,payment
+754,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1754,Billing Issue,2026-09-08,01:30 PM,N/A,Not Applicable,Is online payment available?,payment
+755,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1755,Billing Issue,2026-09-09,12:30 PM,N/A,Not Applicable,Is card payment accepted?,payment
+756,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Reddy,P1756,Billing Issue,2026-09-10,09:30 AM,N/A,Not Applicable,Do you accept online payments?,payment
+757,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Kumar,P1757,Billing Issue,2026-09-11,01:30 PM,N/A,Not Applicable,Is online payment available?,payment
+758,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1758,Billing Issue,2026-09-12,12:30 PM,N/A,Not Applicable,Does the hospital accept cash?,payment
+759,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Naidu,P1759,Billing Issue,2026-09-13,04:30 PM,N/A,Not Applicable,Is card payment accepted?,payment
+760,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1760,Billing Issue,2026-09-14,03:30 PM,N/A,Not Applicable,Do you accept digital payments?,payment
+761,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1761,Billing Issue,2026-09-15,09:00 AM,N/A,Not Applicable,What are the available payment options?,payment
+762,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Verma,P1762,Billing Issue,2026-09-16,01:30 PM,N/A,Not Applicable,Is card payment accepted?,payment
+763,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Nair,P1763,Billing Issue,2026-09-17,11:30 AM,N/A,Not Applicable,How can I pay the consultation fee?,payment
+764,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1764,Billing Issue,2026-09-18,09:00 AM,N/A,Not Applicable,Is online payment available?,payment
+765,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1765,Billing Issue,2026-09-19,09:30 AM,N/A,Not Applicable,Please tell me how I can make the payment.,payment
+766,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Rao,P1766,Billing Issue,2026-09-20,12:00 PM,N/A,Not Applicable,How can I pay the consultation fee?,payment
+767,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Sharma,P1767,Billing Issue,2026-09-21,03:30 PM,N/A,Not Applicable,What payment options does the hospital provide?,payment
+768,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Singh,P1768,Billing Issue,2026-09-22,11:30 AM,N/A,Not Applicable,Do you accept debit cards?,payment
+769,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Naidu,P1769,Billing Issue,2026-09-23,12:00 PM,N/A,Not Applicable,Can I pay by UPI?,payment
+770,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1770,Billing Issue,2026-09-24,02:00 PM,N/A,Not Applicable,Can I pay the consultation fee by UPI?,payment
+771,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1771,Billing Issue,2026-09-25,04:30 PM,N/A,Not Applicable,Can I pay by credit card?,payment
+772,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Das,P1772,Billing Issue,2026-09-26,04:00 PM,N/A,Not Applicable,How can I pay the consultation fee?,payment
+773,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Verma,P1773,Billing Issue,2026-09-27,11:00 AM,N/A,Not Applicable,What payment methods are available?,payment
+774,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Reddy,P1774,Billing Issue,2026-09-28,09:00 AM,N/A,Not Applicable,Can I pay the consultation fee by UPI?,payment
+775,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Rao,P1775,Billing Issue,2026-09-29,02:00 PM,N/A,Not Applicable,Do you accept digital payments?,payment
+776,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Nair,P1776,Billing Issue,2026-09-30,11:00 AM,N/A,Not Applicable,Could I pay by UPI?,payment
+777,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1777,Billing Issue,2026-10-01,12:30 PM,N/A,Not Applicable,Is UPI payment available at the clinic?,payment
+778,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1778,Billing Issue,2026-10-02,04:30 PM,N/A,Not Applicable,What are the available payment options?,payment
+779,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Rao,P1779,Billing Issue,2026-10-03,02:00 PM,N/A,Not Applicable,Is UPI payment available at the clinic?,payment
+780,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Nair,P1780,Billing Issue,2026-10-04,11:30 AM,N/A,Not Applicable,What payment options does the hospital provide?,payment
+781,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1781,Billing Issue,2026-09-05,03:00 PM,N/A,Not Applicable,Could I pay in cash?,payment
+782,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1782,Billing Issue,2026-09-06,02:30 PM,N/A,Not Applicable,Do you accept electronic payments?,payment
+783,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Sharma,P1783,Billing Issue,2026-09-07,12:30 PM,N/A,Not Applicable,Do you accept electronic payments?,payment
+784,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Nair,P1784,Billing Issue,2026-09-08,01:00 PM,N/A,Not Applicable,Do you accept digital payments?,payment
+785,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1785,Billing Issue,2026-09-09,12:00 PM,N/A,Not Applicable,Is online payment available?,payment
+786,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Patel,P1786,Billing Issue,2026-09-10,10:00 AM,N/A,Not Applicable,Is UPI payment available at the clinic?,payment
+787,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1787,Billing Issue,2026-09-11,09:00 AM,N/A,Not Applicable,Can I use a credit card for payment?,payment
+788,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1788,Billing Issue,2026-09-12,02:30 PM,N/A,Not Applicable,Can I pay in cash?,payment
+789,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1789,Billing Issue,2026-09-13,03:30 PM,N/A,Not Applicable,Can I pay with a debit card?,payment
+790,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Nair,P1790,Billing Issue,2026-09-14,04:30 PM,N/A,Not Applicable,Could I use UPI for my hospital bill?,payment
+791,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Reddy,P1791,Billing Issue,2026-09-15,04:00 PM,N/A,Not Applicable,Please tell me how I can make the payment.,payment
+792,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Naidu,P1792,Billing Issue,2026-09-16,01:00 PM,N/A,Not Applicable,Is online payment available?,payment
+793,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Singh,P1793,Billing Issue,2026-09-17,04:00 PM,N/A,Not Applicable,What payment methods are available?,payment
+794,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1794,Billing Issue,2026-09-18,12:00 PM,N/A,Not Applicable,Can I use a credit card for payment?,payment
+795,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1795,Billing Issue,2026-09-19,09:00 AM,N/A,Not Applicable,Can I use UPI for my hospital bill?,payment
+796,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Das,P1796,Billing Issue,2026-09-20,02:00 PM,N/A,Not Applicable,What payment methods are available?,payment
+797,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Kumar,P1797,Billing Issue,2026-09-21,09:00 AM,N/A,Not Applicable,Can I pay the consultation fee by UPI?,payment
+798,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Rao,P1798,Billing Issue,2026-09-22,02:00 PM,N/A,Not Applicable,Could I use a credit card for payment?,payment
+799,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1799,Billing Issue,2026-09-23,11:30 AM,N/A,Not Applicable,What payment options does the hospital provide?,payment
+800,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1800,Billing Issue,2026-09-24,11:30 AM,N/A,Not Applicable,Do you accept digital payments?,payment
+801,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1801,Existing Appointment,2026-09-25,11:30 AM,N/A,As Prescribed,I need help cancelling my doctor visit.,appointment_cancellation
+802,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1802,Existing Appointment,2026-09-26,09:00 AM,N/A,As Prescribed,I want to cancel my scheduled appointment.,appointment_cancellation
+803,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1803,Existing Appointment,2026-09-27,11:30 AM,N/A,As Prescribed,Can you help me cancel my appointment?,appointment_cancellation
+804,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Naidu,P1804,Existing Appointment,2026-09-28,03:00 PM,N/A,As Prescribed,Can you help me cancel my appointment?,appointment_cancellation
+805,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Rao,P1805,Existing Appointment,2026-09-29,09:30 AM,N/A,As Prescribed,Can I cancel my booking?,appointment_cancellation
+806,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Singh,P1806,Existing Appointment,2026-09-30,09:00 AM,N/A,As Prescribed,Can I cancel my booking?,appointment_cancellation
+807,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Kumar,P1807,Existing Appointment,2026-10-01,02:30 PM,N/A,As Prescribed,I want to cancel my appointment.,appointment_cancellation
+808,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Das,P1808,Existing Appointment,2026-10-02,10:30 AM,N/A,As Prescribed,Please help me cancel my booking.,appointment_cancellation
+809,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Nair,P1809,Existing Appointment,2026-10-03,01:00 PM,N/A,As Prescribed,I no longer need my appointment.,appointment_cancellation
+810,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1810,Existing Appointment,2026-10-04,09:30 AM,N/A,As Prescribed,I need to cancel tomorrow's appointment.,appointment_cancellation
+811,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Naidu,P1811,Existing Appointment,2026-09-05,01:00 PM,N/A,As Prescribed,Please cancel the appointment I booked.,appointment_cancellation
+812,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Naidu,P1812,Existing Appointment,2026-09-06,03:30 PM,N/A,As Prescribed,Can I cancel my booking?,appointment_cancellation
+813,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Sharma,P1813,Existing Appointment,2026-09-07,01:00 PM,N/A,As Prescribed,Please cancel my ENT consultation.,appointment_cancellation
+814,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Sharma,P1814,Existing Appointment,2026-09-08,01:30 PM,N/A,As Prescribed,I want to remove my appointment.,appointment_cancellation
+815,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Singh,P1815,Existing Appointment,2026-09-09,01:30 PM,N/A,As Prescribed,I want to cancel my scheduled appointment.,appointment_cancellation
+816,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Naidu,P1816,Existing Appointment,2026-09-10,04:00 PM,N/A,As Prescribed,I would like to cancel my scheduled appointment.,appointment_cancellation
+817,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Das,P1817,Existing Appointment,2026-09-11,02:30 PM,N/A,As Prescribed,I need to cancel my doctor appointment.,appointment_cancellation
+818,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Kumar,P1818,Existing Appointment,2026-09-12,09:30 AM,N/A,As Prescribed,How do I cancel my consultation slot?,appointment_cancellation
+819,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1819,Existing Appointment,2026-09-13,03:00 PM,N/A,As Prescribed,I want to remove my appointment.,appointment_cancellation
+820,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1820,Existing Appointment,2026-09-14,12:00 PM,N/A,As Prescribed,Please cancel my ENT consultation.,appointment_cancellation
+821,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1821,Existing Appointment,2026-09-15,04:00 PM,N/A,As Prescribed,Can my appointment be cancelled?,appointment_cancellation
+822,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1822,Existing Appointment,2026-09-16,09:30 AM,N/A,As Prescribed,Can you help me cancel my appointment?,appointment_cancellation
+823,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Singh,P1823,Existing Appointment,2026-09-17,01:30 PM,N/A,As Prescribed,I want to remove my appointment.,appointment_cancellation
+824,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Nair,P1824,Existing Appointment,2026-09-18,02:00 PM,N/A,As Prescribed,Please help me cancel my booking.,appointment_cancellation
+825,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Sharma,P1825,Existing Appointment,2026-09-19,02:30 PM,N/A,As Prescribed,How do I cancel a scheduled consultation?,appointment_cancellation
+826,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1826,Existing Appointment,2026-09-20,09:00 AM,N/A,As Prescribed,Can you help me cancel my appointment?,appointment_cancellation
+827,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1827,Existing Appointment,2026-09-21,10:30 AM,N/A,As Prescribed,I need help cancelling my doctor visit.,appointment_cancellation
+828,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1828,Existing Appointment,2026-09-22,03:00 PM,N/A,As Prescribed,How do I cancel my consultation slot?,appointment_cancellation
+829,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Das,P1829,Existing Appointment,2026-09-23,03:30 PM,N/A,As Prescribed,I need to cancel my doctor appointment.,appointment_cancellation
+830,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Das,P1830,Existing Appointment,2026-09-24,03:30 PM,N/A,As Prescribed,How can I cancel my appointment?,appointment_cancellation
+831,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Reddy,P1831,Existing Appointment,2026-09-25,01:00 PM,N/A,As Prescribed,Could I cancel an appointment online?,appointment_cancellation
+832,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Singh,P1832,Existing Appointment,2026-09-26,01:30 PM,N/A,As Prescribed,Please cancel the appointment I booked.,appointment_cancellation
+833,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Kumar,P1833,Existing Appointment,2026-09-27,11:00 AM,N/A,As Prescribed,How do I cancel my appointment?,appointment_cancellation
+834,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1834,Existing Appointment,2026-09-28,01:00 PM,N/A,As Prescribed,Can my appointment be cancelled?,appointment_cancellation
+835,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Reddy,P1835,Existing Appointment,2026-09-29,04:30 PM,N/A,As Prescribed,Can my appointment be cancelled?,appointment_cancellation
+836,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1836,Existing Appointment,2026-09-30,01:00 PM,N/A,As Prescribed,How do I cancel a scheduled consultation?,appointment_cancellation
+837,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1837,Existing Appointment,2026-10-01,01:00 PM,N/A,As Prescribed,I cannot attend my appointment.,appointment_cancellation
+838,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1838,Existing Appointment,2026-10-02,10:00 AM,N/A,As Prescribed,How do I cancel my consultation slot?,appointment_cancellation
+839,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Naidu,P1839,Existing Appointment,2026-10-03,03:30 PM,N/A,As Prescribed,I need help cancelling my doctor visit.,appointment_cancellation
+840,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Reddy,P1840,Existing Appointment,2026-10-04,01:00 PM,N/A,As Prescribed,Please cancel my appointment.,appointment_cancellation
+841,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1841,Existing Appointment,2026-09-05,02:30 PM,N/A,As Prescribed,I cannot attend my appointment.,appointment_cancellation
+842,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Nair,P1842,Existing Appointment,2026-09-06,10:30 AM,N/A,As Prescribed,How can I cancel my hospital visit?,appointment_cancellation
+843,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Sharma,P1843,Existing Appointment,2026-09-07,10:30 AM,N/A,As Prescribed,I need to cancel my doctor appointment.,appointment_cancellation
+844,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Patel,P1844,Existing Appointment,2026-09-08,12:00 PM,N/A,As Prescribed,Please help me cancel my booking.,appointment_cancellation
+845,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Reddy,P1845,Existing Appointment,2026-09-09,01:30 PM,N/A,As Prescribed,I need help cancelling my doctor visit.,appointment_cancellation
+846,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Kumar,P1846,Existing Appointment,2026-09-10,09:30 AM,N/A,As Prescribed,I cannot attend my appointment.,appointment_cancellation
+847,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Sharma,P1847,Existing Appointment,2026-09-11,03:00 PM,N/A,As Prescribed,How can I cancel my appointment?,appointment_cancellation
+848,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Sharma,P1848,Existing Appointment,2026-09-12,01:00 PM,N/A,As Prescribed,How do I cancel my hospital visit?,appointment_cancellation
+849,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1849,Existing Appointment,2026-09-13,11:30 AM,N/A,As Prescribed,I cannot attend my appointment.,appointment_cancellation
+850,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Das,P1850,Existing Appointment,2026-09-14,04:00 PM,N/A,As Prescribed,Could I cancel my booking?,appointment_cancellation
+851,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Das,P1851,Existing Appointment,2026-09-15,10:00 AM,N/A,As Prescribed,Please cancel my ENT consultation.,appointment_cancellation
+852,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Nair,P1852,Existing Appointment,2026-09-16,02:30 PM,N/A,As Prescribed,I need to cancel tomorrow's appointment.,appointment_cancellation
+853,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Nair,P1853,Existing Appointment,2026-09-17,03:30 PM,N/A,As Prescribed,I no longer need my appointment.,appointment_cancellation
+854,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Rao,P1854,Existing Appointment,2026-09-18,12:00 PM,N/A,As Prescribed,I no longer need my appointment.,appointment_cancellation
+855,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1855,Existing Appointment,2026-09-19,09:30 AM,N/A,As Prescribed,Please cancel my appointment.,appointment_cancellation
+856,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Verma,P1856,Existing Appointment,2026-09-20,12:00 PM,N/A,As Prescribed,How can I cancel my appointment?,appointment_cancellation
+857,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1857,Existing Appointment,2026-09-21,09:00 AM,N/A,As Prescribed,I want to cancel my appointment.,appointment_cancellation
+858,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Naidu,P1858,Existing Appointment,2026-09-22,04:30 PM,N/A,As Prescribed,How do I cancel my consultation slot?,appointment_cancellation
+859,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1859,Existing Appointment,2026-09-23,12:30 PM,N/A,As Prescribed,Please cancel my ENT consultation.,appointment_cancellation
+860,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Sharma,P1860,Existing Appointment,2026-09-24,03:30 PM,N/A,As Prescribed,I want to remove my appointment.,appointment_cancellation
+861,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Nair,P1861,Existing Appointment,2026-09-25,11:30 AM,N/A,As Prescribed,How can I cancel my appointment?,appointment_cancellation
+862,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Reddy,P1862,Existing Appointment,2026-09-26,03:30 PM,N/A,As Prescribed,I would like to cancel my appointment.,appointment_cancellation
+863,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Verma,P1863,Existing Appointment,2026-09-27,11:00 AM,N/A,As Prescribed,Can my appointment be cancelled?,appointment_cancellation
+864,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1864,Existing Appointment,2026-09-28,02:30 PM,N/A,As Prescribed,How do I cancel a scheduled consultation?,appointment_cancellation
+865,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Singh,P1865,Existing Appointment,2026-09-29,12:30 PM,N/A,As Prescribed,I want to cancel my scheduled appointment.,appointment_cancellation
+866,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Naidu,P1866,Existing Appointment,2026-09-30,03:00 PM,N/A,As Prescribed,Please help me cancel my booking.,appointment_cancellation
+867,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Singh,P1867,Existing Appointment,2026-10-01,02:00 PM,N/A,As Prescribed,I want to cancel my appointment.,appointment_cancellation
+868,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1868,Existing Appointment,2026-10-02,10:00 AM,N/A,As Prescribed,I need to cancel tomorrow's appointment.,appointment_cancellation
+869,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Rao,P1869,Existing Appointment,2026-10-03,09:00 AM,N/A,As Prescribed,Can you help me cancel my appointment?,appointment_cancellation
+870,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Singh,P1870,Existing Appointment,2026-10-04,10:30 AM,N/A,As Prescribed,Can I cancel an appointment online?,appointment_cancellation
+871,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1871,Existing Appointment,2026-09-05,01:30 PM,N/A,As Prescribed,I would like to remove my appointment.,appointment_cancellation
+872,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Sharma,P1872,Existing Appointment,2026-09-06,11:30 AM,N/A,As Prescribed,I need to cancel tomorrow's appointment.,appointment_cancellation
+873,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Naidu,P1873,Existing Appointment,2026-09-07,04:00 PM,N/A,As Prescribed,How do I cancel my consultation slot?,appointment_cancellation
+874,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1874,Existing Appointment,2026-09-08,04:30 PM,N/A,As Prescribed,Please cancel the appointment I booked.,appointment_cancellation
+875,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Patel,P1875,Existing Appointment,2026-09-09,12:00 PM,N/A,As Prescribed,I want to cancel my appointment.,appointment_cancellation
+876,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1876,Existing Appointment,2026-09-10,10:30 AM,N/A,As Prescribed,I no longer need my appointment.,appointment_cancellation
+877,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1877,Existing Appointment,2026-09-11,01:30 PM,N/A,As Prescribed,Can I cancel my booking?,appointment_cancellation
+878,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1878,Existing Appointment,2026-09-12,10:00 AM,N/A,As Prescribed,I want to cancel my scheduled appointment.,appointment_cancellation
+879,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Rao,P1879,Existing Appointment,2026-09-13,01:00 PM,N/A,As Prescribed,How can I cancel my hospital visit?,appointment_cancellation
+880,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1880,Existing Appointment,2026-09-14,04:00 PM,N/A,As Prescribed,I need to cancel my doctor appointment.,appointment_cancellation
+881,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1881,Existing Appointment,2026-09-15,11:00 AM,N/A,As Prescribed,Please cancel my appointment.,appointment_cancellation
+882,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Singh,P1882,Existing Appointment,2026-09-16,11:00 AM,N/A,As Prescribed,How can I cancel my hospital visit?,appointment_cancellation
+883,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Verma,P1883,Existing Appointment,2026-09-17,02:00 PM,N/A,As Prescribed,How do I cancel a scheduled consultation?,appointment_cancellation
+884,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Patel,P1884,Existing Appointment,2026-09-18,01:30 PM,N/A,As Prescribed,I need help cancelling my doctor visit.,appointment_cancellation
+885,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1885,Existing Appointment,2026-09-19,04:30 PM,N/A,As Prescribed,Please cancel the appointment I booked.,appointment_cancellation
+886,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Sharma,P1886,Existing Appointment,2026-09-20,10:00 AM,N/A,As Prescribed,Can my appointment be cancelled?,appointment_cancellation
+887,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1887,Existing Appointment,2026-09-21,02:30 PM,N/A,As Prescribed,Can I cancel an appointment online?,appointment_cancellation
+888,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1888,Existing Appointment,2026-09-22,03:30 PM,N/A,As Prescribed,Please cancel the appointment I booked.,appointment_cancellation
+889,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P1889,Existing Appointment,2026-09-23,03:30 PM,N/A,As Prescribed,Can I cancel an appointment online?,appointment_cancellation
+890,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Das,P1890,Existing Appointment,2026-09-24,04:00 PM,N/A,As Prescribed,Can I cancel an appointment online?,appointment_cancellation
+891,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Naidu,P1891,Existing Appointment,2026-09-25,09:30 AM,N/A,As Prescribed,Please cancel my appointment.,appointment_cancellation
+892,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Naidu,P1892,Existing Appointment,2026-09-26,04:00 PM,N/A,As Prescribed,Please help me cancel my booking.,appointment_cancellation
+893,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Rao,P1893,Existing Appointment,2026-09-27,12:00 PM,N/A,As Prescribed,How can I cancel my hospital visit?,appointment_cancellation
+894,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1894,Existing Appointment,2026-09-28,09:00 AM,N/A,As Prescribed,Please cancel my ENT consultation.,appointment_cancellation
+895,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Patel,P1895,Existing Appointment,2026-09-29,03:30 PM,N/A,As Prescribed,I no longer need my appointment.,appointment_cancellation
+896,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1896,Existing Appointment,2026-09-30,03:30 PM,N/A,As Prescribed,I need to cancel tomorrow's appointment.,appointment_cancellation
+897,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Naidu,P1897,Existing Appointment,2026-10-01,12:00 PM,N/A,As Prescribed,Please cancel my appointment.,appointment_cancellation
+898,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Verma,P1898,Existing Appointment,2026-10-02,02:00 PM,N/A,As Prescribed,How do I cancel a scheduled consultation?,appointment_cancellation
+899,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Verma,P1899,Existing Appointment,2026-10-03,01:00 PM,N/A,As Prescribed,I need to cancel my doctor appointment.,appointment_cancellation
+900,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Patel,P1900,Existing Appointment,2026-10-04,04:30 PM,N/A,As Prescribed,I cannot attend my appointment.,appointment_cancellation
+901,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Das,P1901,Reschedule Visit,2026-09-05,03:30 PM,N/A,As Prescribed,Can I move my appointment to next week?,appointment_rescheduling
+902,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Nair,P1902,Reschedule Visit,2026-09-06,04:00 PM,N/A,As Prescribed,I need a new date for my consultation.,appointment_rescheduling
+903,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Kumar,P1903,Reschedule Visit,2026-09-07,01:00 PM,N/A,As Prescribed,I need to reschedule my consultation.,appointment_rescheduling
+904,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Singh,P1904,Reschedule Visit,2026-09-08,03:30 PM,N/A,As Prescribed,I want to change my appointment date.,appointment_rescheduling
+905,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1905,Reschedule Visit,2026-09-09,02:30 PM,N/A,As Prescribed,Please help me reschedule my hospital visit.,appointment_rescheduling
+906,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Rao,P1906,Reschedule Visit,2026-09-10,11:30 AM,N/A,As Prescribed,I want to change my appointment date.,appointment_rescheduling
+907,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Nair,P1907,Reschedule Visit,2026-09-11,02:30 PM,N/A,As Prescribed,Please change my appointment time.,appointment_rescheduling
+908,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Singh,P1908,Reschedule Visit,2026-09-12,10:30 AM,N/A,As Prescribed,How do I reschedule my appointment?,appointment_rescheduling
+909,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Verma,P1909,Reschedule Visit,2026-09-13,11:00 AM,N/A,As Prescribed,I want to change my appointment date.,appointment_rescheduling
+910,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Singh,P1910,Reschedule Visit,2026-09-14,10:00 AM,N/A,As Prescribed,Can I change my appointment time?,appointment_rescheduling
+911,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Rao,P1911,Reschedule Visit,2026-09-15,01:30 PM,N/A,As Prescribed,Could I postpone my appointment?,appointment_rescheduling
+912,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1912,Reschedule Visit,2026-09-16,10:30 AM,N/A,As Prescribed,How do I modify my appointment?,appointment_rescheduling
+913,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Nair,P1913,Reschedule Visit,2026-09-17,01:30 PM,N/A,As Prescribed,Please help me change my appointment.,appointment_rescheduling
+914,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Rao,P1914,Reschedule Visit,2026-09-18,09:00 AM,N/A,As Prescribed,Can my doctor appointment be rescheduled?,appointment_rescheduling
+915,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Patel,P1915,Reschedule Visit,2026-09-19,03:00 PM,N/A,As Prescribed,I want to change my appointment date.,appointment_rescheduling
+916,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1916,Reschedule Visit,2026-09-20,03:00 PM,N/A,As Prescribed,Please help me change my appointment.,appointment_rescheduling
+917,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Naidu,P1917,Reschedule Visit,2026-09-21,11:00 AM,N/A,As Prescribed,I want a different appointment slot.,appointment_rescheduling
+918,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Patel,P1918,Reschedule Visit,2026-09-22,04:30 PM,N/A,As Prescribed,Please change my appointment time.,appointment_rescheduling
+919,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Singh,P1919,Reschedule Visit,2026-09-23,04:00 PM,N/A,As Prescribed,Can my appointment be shifted to tomorrow?,appointment_rescheduling
+920,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Reddy,P1920,Reschedule Visit,2026-09-24,03:30 PM,N/A,As Prescribed,I would like to select another appointment slot.,appointment_rescheduling
+921,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Patel,P1921,Reschedule Visit,2026-09-25,01:00 PM,N/A,As Prescribed,Could I move my appointment to next week?,appointment_rescheduling
+922,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Verma,P1922,Reschedule Visit,2026-09-26,09:00 AM,N/A,As Prescribed,Can I change my appointment time?,appointment_rescheduling
+923,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Verma,P1923,Reschedule Visit,2026-09-27,12:30 PM,N/A,As Prescribed,How do I change my booking?,appointment_rescheduling
+924,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1924,Reschedule Visit,2026-09-28,03:00 PM,N/A,As Prescribed,Can my appointment be shifted to tomorrow?,appointment_rescheduling
+925,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1925,Reschedule Visit,2026-09-29,04:00 PM,N/A,As Prescribed,Can I reschedule my ENT consultation?,appointment_rescheduling
+926,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Kumar,P1926,Reschedule Visit,2026-09-30,04:00 PM,N/A,As Prescribed,Can I postpone my appointment?,appointment_rescheduling
+927,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Naidu,P1927,Reschedule Visit,2026-10-01,11:30 AM,N/A,As Prescribed,Can my appointment be shifted to tomorrow?,appointment_rescheduling
+928,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Verma,P1928,Reschedule Visit,2026-10-02,02:00 PM,N/A,As Prescribed,How do I change my booking?,appointment_rescheduling
+929,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Kumar,P1929,Reschedule Visit,2026-10-03,12:30 PM,N/A,As Prescribed,Can my doctor appointment be rescheduled?,appointment_rescheduling
+930,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Kumar,P1930,Reschedule Visit,2026-10-04,12:30 PM,N/A,As Prescribed,I want a different appointment slot.,appointment_rescheduling
+931,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Patel,P1931,Reschedule Visit,2026-09-05,11:30 AM,N/A,As Prescribed,How do I change my booking?,appointment_rescheduling
+932,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Patel,P1932,Reschedule Visit,2026-09-06,01:30 PM,N/A,As Prescribed,I need to reschedule my consultation.,appointment_rescheduling
+933,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1933,Reschedule Visit,2026-09-07,04:00 PM,N/A,As Prescribed,Please change my appointment time.,appointment_rescheduling
+934,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Sharma,P1934,Reschedule Visit,2026-09-08,03:00 PM,N/A,As Prescribed,Can I postpone my appointment?,appointment_rescheduling
+935,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Singh,P1935,Reschedule Visit,2026-09-09,09:30 AM,N/A,As Prescribed,I need to reschedule my consultation.,appointment_rescheduling
+936,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Singh,P1936,Reschedule Visit,2026-09-10,03:30 PM,N/A,As Prescribed,Can I move my appointment to another day?,appointment_rescheduling
+937,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Reddy,P1937,Reschedule Visit,2026-09-11,03:30 PM,N/A,As Prescribed,How can I modify my appointment?,appointment_rescheduling
+938,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Nair,P1938,Reschedule Visit,2026-09-12,09:30 AM,N/A,As Prescribed,I want to select another appointment slot.,appointment_rescheduling
+939,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Nair,P1939,Reschedule Visit,2026-09-13,02:00 PM,N/A,As Prescribed,How can I reschedule my appointment?,appointment_rescheduling
+940,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Rao,P1940,Reschedule Visit,2026-09-14,10:00 AM,N/A,As Prescribed,Please help me change my appointment.,appointment_rescheduling
+941,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Reddy,P1941,Reschedule Visit,2026-09-15,09:00 AM,N/A,As Prescribed,Can I change my appointment time?,appointment_rescheduling
+942,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1942,Reschedule Visit,2026-09-16,01:30 PM,N/A,As Prescribed,Could I change my appointment time?,appointment_rescheduling
+943,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Reddy,P1943,Reschedule Visit,2026-09-17,10:30 AM,N/A,As Prescribed,I want to select another appointment slot.,appointment_rescheduling
+944,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Meena Sharma,P1944,Reschedule Visit,2026-09-18,11:30 AM,N/A,As Prescribed,How can I reschedule my appointment?,appointment_rescheduling
+945,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Nair,P1945,Reschedule Visit,2026-09-19,12:00 PM,N/A,As Prescribed,Can my appointment be shifted to tomorrow?,appointment_rescheduling
+946,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1946,Reschedule Visit,2026-09-20,12:30 PM,N/A,As Prescribed,I need to change the date of my appointment.,appointment_rescheduling
+947,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Das,P1947,Reschedule Visit,2026-09-21,01:00 PM,N/A,As Prescribed,Can I postpone my appointment?,appointment_rescheduling
+948,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Rao,P1948,Reschedule Visit,2026-09-22,01:30 PM,N/A,As Prescribed,Please change my appointment time.,appointment_rescheduling
+949,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Nair,P1949,Reschedule Visit,2026-09-23,01:30 PM,N/A,As Prescribed,I need to change the date of my appointment.,appointment_rescheduling
+950,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1950,Reschedule Visit,2026-09-24,01:30 PM,N/A,As Prescribed,Can my appointment be shifted to tomorrow?,appointment_rescheduling
+951,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Singh,P1951,Reschedule Visit,2026-09-25,12:30 PM,N/A,As Prescribed,Please change my appointment time.,appointment_rescheduling
+952,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Kumar,P1952,Reschedule Visit,2026-09-26,03:30 PM,N/A,As Prescribed,Can I move my appointment to another day?,appointment_rescheduling
+953,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1953,Reschedule Visit,2026-09-27,03:00 PM,N/A,As Prescribed,I want to select another appointment slot.,appointment_rescheduling
+954,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1954,Reschedule Visit,2026-09-28,02:30 PM,N/A,As Prescribed,Can I move my appointment to next week?,appointment_rescheduling
+955,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Naidu,P1955,Reschedule Visit,2026-09-29,01:00 PM,N/A,As Prescribed,Can I change my appointment time?,appointment_rescheduling
+956,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ravi Reddy,P1956,Reschedule Visit,2026-09-30,02:30 PM,N/A,As Prescribed,I cannot attend at the scheduled time.,appointment_rescheduling
+957,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Verma,P1957,Reschedule Visit,2026-10-01,04:00 PM,N/A,As Prescribed,How can I modify my appointment?,appointment_rescheduling
+958,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Nikhil Rao,P1958,Reschedule Visit,2026-10-02,10:30 AM,N/A,As Prescribed,Could I move my appointment to another day?,appointment_rescheduling
+959,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Naidu,P1959,Reschedule Visit,2026-10-03,10:30 AM,N/A,As Prescribed,Can I move my appointment to next week?,appointment_rescheduling
+960,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Kumar,P1960,Reschedule Visit,2026-10-04,01:00 PM,N/A,As Prescribed,Could I reschedule my ENT consultation?,appointment_rescheduling
+961,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1961,Reschedule Visit,2026-09-05,12:30 PM,N/A,As Prescribed,Can I move my appointment to another day?,appointment_rescheduling
+962,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sanjay Singh,P1962,Reschedule Visit,2026-09-06,04:30 PM,N/A,As Prescribed,I need to reschedule my consultation.,appointment_rescheduling
+963,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Reddy,P1963,Reschedule Visit,2026-09-07,04:00 PM,N/A,As Prescribed,I cannot attend at the scheduled time.,appointment_rescheduling
+964,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Verma,P1964,Reschedule Visit,2026-09-08,03:30 PM,N/A,As Prescribed,I would like to change my appointment date.,appointment_rescheduling
+965,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Singh,P1965,Reschedule Visit,2026-09-09,04:30 PM,N/A,As Prescribed,I cannot attend at the scheduled time.,appointment_rescheduling
+966,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1966,Reschedule Visit,2026-09-10,03:00 PM,N/A,As Prescribed,Please help me reschedule my hospital visit.,appointment_rescheduling
+967,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Rao,P1967,Reschedule Visit,2026-09-11,09:00 AM,N/A,As Prescribed,I need to reschedule my consultation.,appointment_rescheduling
+968,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Kumar,P1968,Reschedule Visit,2026-09-12,04:30 PM,N/A,As Prescribed,I need a new date for my consultation.,appointment_rescheduling
+969,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Pooja Nair,P1969,Reschedule Visit,2026-09-13,04:00 PM,N/A,As Prescribed,Please help me change my appointment.,appointment_rescheduling
+970,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Vikram Verma,P1970,Reschedule Visit,2026-09-14,02:30 PM,N/A,As Prescribed,Please help me reschedule my hospital visit.,appointment_rescheduling
+971,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1971,Reschedule Visit,2026-09-15,12:00 PM,N/A,As Prescribed,How do I change my booking?,appointment_rescheduling
+972,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1972,Reschedule Visit,2026-09-16,03:00 PM,N/A,As Prescribed,How can I modify my appointment?,appointment_rescheduling
+973,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1973,Reschedule Visit,2026-09-17,04:00 PM,N/A,As Prescribed,Can I reschedule my ENT consultation?,appointment_rescheduling
+974,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Das,P1974,Reschedule Visit,2026-09-18,03:30 PM,N/A,As Prescribed,I need a new date for my consultation.,appointment_rescheduling
+975,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Sharma,P1975,Reschedule Visit,2026-09-19,03:30 PM,N/A,As Prescribed,I want to select another appointment slot.,appointment_rescheduling
+976,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Reddy,P1976,Reschedule Visit,2026-09-20,10:00 AM,N/A,As Prescribed,I would like to a different appointment slot.,appointment_rescheduling
+977,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Reddy,P1977,Reschedule Visit,2026-09-21,03:00 PM,N/A,As Prescribed,I need a new date for my consultation.,appointment_rescheduling
+978,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Rahul Sharma,P1978,Reschedule Visit,2026-09-22,01:00 PM,N/A,As Prescribed,Please help me reschedule my hospital visit.,appointment_rescheduling
+979,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Patel,P1979,Reschedule Visit,2026-09-23,01:00 PM,N/A,As Prescribed,I cannot attend at the scheduled time.,appointment_rescheduling
+980,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Kumar,P1980,Reschedule Visit,2026-09-24,11:30 AM,N/A,As Prescribed,Can I reschedule my ENT consultation?,appointment_rescheduling
+981,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Singh,P1981,Reschedule Visit,2026-09-25,09:30 AM,N/A,As Prescribed,I need to change the date of my appointment.,appointment_rescheduling
+982,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Keerthi Sharma,P1982,Reschedule Visit,2026-09-26,04:30 PM,N/A,As Prescribed,Can I postpone my appointment?,appointment_rescheduling
+983,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ananya Patel,P1983,Reschedule Visit,2026-09-27,11:00 AM,N/A,As Prescribed,I need a new date for my consultation.,appointment_rescheduling
+984,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Manoj Naidu,P1984,Reschedule Visit,2026-09-28,11:00 AM,N/A,As Prescribed,How can I reschedule my appointment?,appointment_rescheduling
+985,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Verma,P1985,Reschedule Visit,2026-09-29,02:30 PM,N/A,As Prescribed,I need to change the date of my appointment.,appointment_rescheduling
+986,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1986,Reschedule Visit,2026-09-30,02:00 PM,N/A,As Prescribed,Please help me change my appointment.,appointment_rescheduling
+987,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Ajay Das,P1987,Reschedule Visit,2026-10-01,04:30 PM,N/A,As Prescribed,I need to change the date of my appointment.,appointment_rescheduling
+988,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Harini Patel,P1988,Reschedule Visit,2026-10-02,02:30 PM,N/A,As Prescribed,How can I reschedule my appointment?,appointment_rescheduling
+989,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Kiran Sharma,P1989,Reschedule Visit,2026-10-03,10:30 AM,N/A,As Prescribed,How can I modify my appointment?,appointment_rescheduling
+990,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Patel,P1990,Reschedule Visit,2026-10-04,04:00 PM,N/A,As Prescribed,Please help me reschedule my hospital visit.,appointment_rescheduling
+991,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Verma,P1991,Reschedule Visit,2026-09-05,09:00 AM,N/A,As Prescribed,I cannot attend at the scheduled time.,appointment_rescheduling
+992,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Lakshmi Verma,P1992,Reschedule Visit,2026-09-06,09:00 AM,N/A,As Prescribed,Can I move my appointment to next week?,appointment_rescheduling
+993,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sita Sharma,P1993,Reschedule Visit,2026-09-07,10:30 AM,N/A,As Prescribed,Can my doctor appointment be rescheduled?,appointment_rescheduling
+994,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Rao,P1994,Reschedule Visit,2026-09-08,01:00 PM,N/A,As Prescribed,Can I move my appointment to another day?,appointment_rescheduling
+995,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Kumar,P1995,Reschedule Visit,2026-09-09,10:30 AM,N/A,As Prescribed,Can my doctor appointment be rescheduled?,appointment_rescheduling
+996,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Varun Verma,P1996,Reschedule Visit,2026-09-10,12:30 PM,N/A,As Prescribed,Can my doctor appointment be rescheduled?,appointment_rescheduling
+997,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Divya Kumar,P1997,Reschedule Visit,2026-09-11,01:00 PM,N/A,As Prescribed,I want a different appointment slot.,appointment_rescheduling
+998,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Priya Rao,P1998,Reschedule Visit,2026-09-12,11:30 AM,N/A,As Prescribed,I want a different appointment slot.,appointment_rescheduling
+999,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Sneha Nair,P1999,Reschedule Visit,2026-09-13,02:30 PM,N/A,As Prescribed,Can I reschedule my ENT consultation?,appointment_rescheduling
+1000,"Dr. Gouda Ramesh ENT Centre, Hanamkonda, Telangana",Arjun Rao,P2000,Reschedule Visit,2026-09-14,04:00 PM,N/A,As Prescribed,How do I change my booking?,appointment_rescheduling

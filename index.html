@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Hospital Appointment and Patient Query Classification
+    </title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+    <!-- =====================================
+         HEADER
+    ====================================== -->
+
+    <div class="header">
+
+        <h1>
+            Hospital Appointment System
+        </h1>
+
+        <p>
+            NLP-Based Patient Query Classification
+        </p>
+
+    </div>
+
+
+    <!-- =====================================
+         QUERY FORM
+    ====================================== -->
+
+    <div class="query-section">
+
+        <form
+            action="/predict"
+            method="POST"
+        >
+
+            <label for="query">
+                Enter Your Patient Query
+            </label>
+
+            <textarea
+                id="query"
+                name="query"
+                placeholder="Example: What are the hospital timings?"
+                required
+            >{{ query if query else '' }}</textarea>
+
+
+            <button type="submit">
+
+                Classify Query
+
+            </button>
+
+        </form>
+
+    </div>
+
+
+    <!-- =====================================
+         ERROR MESSAGE
+    ====================================== -->
+
+    {% if error %}
+
+    <div class="error">
+
+        {{ error }}
+
+    </div>
+
+    {% endif %}
+
+
+    <!-- =====================================
+         PREDICTION RESULT
+    ====================================== -->
+
+    {% if intent %}
+
+    <div class="result">
+
+
+        <h2>
+            Prediction Result
+        </h2>
+
+
+        <!-- Patient Query -->
+
+        <div class="result-box">
+
+            <h3>
+                Patient Query
+            </h3>
+
+            <p>
+                {{ query }}
+            </p>
+
+        </div>
+
+
+        <!-- Predicted Intent -->
+
+        <div class="result-box">
+
+            <h3>
+                Predicted Intent
+            </h3>
+
+            <div class="intent">
+
+                {{ intent }}
+
+            </div>
+
+        </div>
+
+
+        <!-- Hospital Information -->
+
+        <div class="result-box">
+
+            <h3>
+                Hospital Information
+            </h3>
+
+            <div class="hospital-response">
+
+                {{ response }}
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    {% endif %}
+
+
+    <!-- =====================================
+         SUPPORTED INTENTS
+    ====================================== -->
+
+    <div class="categories">
+
+
+        <h2>
+            Supported Patient Queries
+        </h2>
+
+
+        <div class="category-grid">
+
+
+            <div class="category">
+                📅 Appointment Booking
+            </div>
+
+
+            <div class="category">
+                👨‍⚕️ Doctor Appointment
+            </div>
+
+
+            <div class="category">
+                🩺 Doctor Availability
+            </div>
+
+
+            <div class="category">
+                🕐 Hospital Timings
+            </div>
+
+
+            <div class="category">
+                📍 Hospital Location
+            </div>
+
+
+            <div class="category">
+                📞 Contact Information
+            </div>
+
+
+            <div class="category">
+                🛡️ Insurance
+            </div>
+
+
+            <div class="category">
+                💳 Payment
+            </div>
+
+
+            <div class="category">
+                ❌ Appointment Cancellation
+            </div>
+
+
+            <div class="category">
+                🔄 Appointment Rescheduling
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+</body>
+
+</html>
